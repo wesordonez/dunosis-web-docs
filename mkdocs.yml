@@ -5,6 +5,10 @@ theme:
   name: material
   features:
     - navigation.footer
+    - navigation.tabs
+    - navigation.expand
+    - navigation.path
+    - navigation.top
   font:
     text: Montserrat
     code: Roboto Mono
@@ -47,6 +51,50 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+
+nav:
+  - Home:
+    - Overview: index.md
+    - About: home/about.md
+    - FAQ: home/faq.md
+  - Code:
+    - Overview: code/code-overview.md
+    - Snippets: code/snippets.md
+    - Style Guide: code/style-guide.md
+    - Best Practices: code/best-practices.md
+    - DevOps:
+      - Deployment: devops/deployment.md
+      - Monitoring: devops/monitoring.md
+      - Scaling: devops/scaling.md
+    - Backend:
+      - SEO: services/seo.md
+    - Frontend:
+      - UI/UX: services/ui-ux.md
+  - Client Instructions:
+    - Overview: client-instructions/overview.md
+    - Admin Dashboard:
+      - Managing Users: client-instructions/admin-dashboard/managing-users.md
+      - Managing Content: client-instructions/admin-dashboard/managing-content.md
+      - Password Reset: client-instructions/admin-dashboard/password-reset.md
+    - Service Tickets:
+      - Creating a Ticket: client-instructions/service-tickets/creating-ticket.md
+      - Updating a Ticket: client-instructions/service-tickets/updating-ticket.md
+      - Closing a Ticket: client-instructions/service-tickets/closing-ticket.md
+    - Common Issues:
+      - Troubleshooting: client-instructions/common-issues/troubleshooting.md
+      - Error Messages: client-instructions/common-issues/error-messages.md
+      - Common Fixes: client-instructions/common-issues/common-fixes.md
+  - Design:
+    - Overview: design/design-overview.md
+    - Branding: services/branding.md
+  - Business:
+    - Overview: business/business-overview.md
+    - Marketing: services/marketing.md
+    - Sales: services/sales.md
+  - Additional Resources:
+    - Overview: resources/resources-overview.md
+    - Tools and Technologies: resources/tools-and-technologies.md
+    - Glossary: resources/glossary.md
 
 extra:
   social:
