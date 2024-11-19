@@ -1,70 +1,84 @@
-# Welcome to Dunosis Docs
+# Welcome to Dunosis Documentation
 
-Welcome to the official documentation site for **Dunosis**! This site is designed to provide comprehensive guidance on code examples, client instructions, site administration, and internal business processes.
-
-Whether you're a client, site administrator, or part of the Dunosis team, you'll find the resources you need to succeed here.
+Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide to understanding and working with Dunosis, offering resources for developers, clients, administrators, and the internal team. Whether you're looking for technical guidance, client instructions, or business processes, you'll find everything here.
 
 ---
 
 ## 📖 Contents
 
-### 1. Getting Started
-- [Introduction to Dunosis](getting-started/intro.md)
-- [How to Use This Documentation](getting-started/how-to-use.md)
-- [FAQ](getting-started/faq.md)
+### 1. Home
+- [Overview](index.md)
+- [About](home/about.md)
+- [FAQ](home/faq.md)
 
-### 2. Code Examples
-- [Code Structure Overview](code-examples/structure.md)
-- [Sample Code Snippets](code-examples/snippets.md)
-- [Best Practices](code-examples/best-practices.md)
+### 2. Code
+- [Overview](code/code-overview.md)
+- [Snippets](code/snippets.md)
+- [Style Guide](code/style-guide.md)
+- [Best Practices](code/best-practices.md)
+- **DevOps**:
+  - [Deployment](devops/deployment.md)
+  - [Monitoring](devops/monitoring.md)
+  - [Scaling](devops/scaling.md)
+- **Backend**:
+  - [SEO Best Practices](services/seo.md)
+- **Frontend**:
+  - [UI/UX Principles](services/ui-ux.md)
 
 ### 3. Client Instructions
-- [Using Your Website](client-instructions/using-website.md)
-- [Updating Content](client-instructions/updating-content.md)
-- [Common Troubleshooting](client-instructions/troubleshooting.md)
+- [Overview](client-instructions/overview.md)
+- **Admin Dashboard**:
+  - [Managing Users](client-instructions/admin-dashboard/managing-users.md)
+  - [Managing Content](client-instructions/admin-dashboard/managing-content.md)
+  - [Password Reset](client-instructions/admin-dashboard/password-reset.md)
+- **Service Tickets**:
+  - [Creating a Ticket](client-instructions/service-tickets/creating-ticket.md)
+  - [Updating a Ticket](client-instructions/service-tickets/updating-ticket.md)
+  - [Closing a Ticket](client-instructions/service-tickets/closing-ticket.md)
+- **Common Issues**:
+  - [Troubleshooting](client-instructions/common-issues/troubleshooting.md)
+  - [Error Messages](client-instructions/common-issues/error-messages.md)
+  - [Common Fixes](client-instructions/common-issues/common-fixes.md)
 
-### 4. Site Administration
-- [Admin Dashboard Overview](admin/admin-dashboard.md)
-- [Managing Users](admin/users.md)
-- [System Settings](admin/settings.md)
-- [Backup and Restore](admin/backup.md)
+### 4. Design
+- [Overview](design/design-overview.md)
+- [Branding Guidelines](services/branding.md)
 
-### 5. Business Processes and Workflows
-- [Project Management Workflow](workflows/project-management.md)
-- [Client Onboarding Process](workflows/client-onboarding.md)
-- [Marketing Strategy Workflow](workflows/marketing-strategy.md)
+### 5. Business
+- [Overview](business/business-overview.md)
+- [Marketing Strategies](services/marketing.md)
+- [Sales Playbook](services/sales.md)
 
 ### 6. Additional Resources
-- [Tools and Technologies](resources/tools.md)
+- [Overview](resources/resources-overview.md)
+- [Tools and Technologies](resources/tools-and-technologies.md)
 - [Glossary](resources/glossary.md)
-- [Contact Support](resources/contact.md)
 
 ---
 
 ## 🎯 About This Documentation
 
-The Dunosis documentation site is continuously updated to reflect the latest changes and improvements. It is divided into easy-to-navigate sections for clarity and ease of use. 
-
-Feel free to explore:
-- **Code Examples**: For developers working on or maintaining Dunosis projects.
-- **Client Instructions**: For our valued clients to effectively manage their sites.
-- **Site Administration**: For administrators to keep systems running smoothly.
-- **Business Processes and Workflows**: For internal use, streamlining operations and processes.
+This site is divided into six main sections to ensure easy navigation:
+- **Home**: Learn about Dunosis, its mission, and FAQs.
+- **Code**: Explore developer resources, including style guides, best practices, and DevOps tools.
+- **Client Instructions**: Get clear, step-by-step guides to manage your website or services.
+- **Design**: Access resources for branding and design principles.
+- **Business**: Learn about workflows for marketing, sales, and other internal processes.
+- **Additional Resources**: Access tools, glossary terms, and other helpful content.
 
 ---
 
-## 🚀 Get Started
+## 🚀 Getting Started
 
-To dive into the documentation:
-
-1. Choose a section from the **Contents** above.
-2. Follow the links to detailed instructions and resources.
-3. Need help? Visit our [Contact Support](resources/contact.md) page for assistance.
+To begin:
+1. Explore the **Home** section for an introduction.
+2. Navigate to the section that fits your needs (e.g., **Client Instructions** for clients or **Code** for developers).
+3. Use the **Additional Resources** section for tools and reference materials.
 
 ---
 
 ## 💡 Feedback
 
-We value your feedback! If you notice any missing or unclear information, please let us know via the [Contact Support](resources/contact.md) page or by submitting an issue on our GitHub repository.
+Your input helps us improve! If you notice something missing or unclear, visit our [FAQ](home/faq.md) or contact us directly through our support channels.
 
 ---
