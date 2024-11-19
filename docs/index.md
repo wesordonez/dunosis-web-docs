@@ -44,7 +44,7 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 
 ### 4. Design
 - [Overview](design/design-overview.md)
-- [Branding Guidelines](design/branding.md)
+- [Branding Guidelines](design/branding-guidelines.md)
 
 ### 5. Business
 - [Overview](business/business-overview.md)
