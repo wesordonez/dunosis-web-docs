@@ -1,12 +1,12 @@
-site_name: My MKDocs Template
-site_url: https://sitename.example
-site_description: This is a template for MKDocs with Materials theme.
+site_name: Dunosis Docs
+site_url: https://docs.dunosis.com
+site_description: This is the official documentation page for Dunossis.
 theme:
   name: material
   features:
     - navigation.footer
   font:
-    text: Merriweather Sans
+    text: Montserrat
     code: Roboto Mono
   logo: /assets/dunosis-logo.png
   favicon: /assets/favoicon.ico
@@ -16,15 +16,15 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: black
+      accent: light blue
 
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
+      primary: black
       accent: deep orange
   
 markdown_extensions:
@@ -51,14 +51,12 @@ markdown_extensions:
 extra:
   social:
     - icon: material/github
-      link: https://sitename.example
-    - icon: material/twitter
-      link: https://sitename.example
+      link: https://github.com/wesordonez
     - icon: material/linkedin
-      link: https://sitename.example
+      link: https://www.linkedin.com/in/wesley-ordonez/
     - icon: material/instagram
-      link: https://sitename.example
+      link: https://www.instagram.com/dunosis_web
     - icon: material/facebook
-      link: https://sitename.example
+      link: https://www.facebook.com/profile.php?id=61565984502377
 
-copyright: Copyright &copy; 2024 Website Name
+copyright: Copyright &copy; 2024 Dunosis LLC
