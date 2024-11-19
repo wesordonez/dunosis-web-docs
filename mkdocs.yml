@@ -79,6 +79,7 @@ nav:
     - Admin Dashboard:
       - Managing Users: client-instructions/admin-dashboard/managing-users.md
       - Managing Content: client-instructions/admin-dashboard/managing-content.md
+      - Password Reset: client-instructions/admin-dashboard/password-reset.md
     - Service Requests:
       - Creating a Request: client-instructions/service-requests/creating-requests.md
       - Updating a Request: client-instructions/service-requests/updating-requests.md
