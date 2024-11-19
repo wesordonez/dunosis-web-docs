@@ -67,32 +67,32 @@ nav:
     - Style Guide: code/style-guide.md
     - Lessons Learned: code/lessons-learned.md
     - DevOps:
-      - Deployment: devops/deployment.md
-      - Monitoring: devops/monitoring.md
+      - Deployment: code/devops/deployment.md
+      - Monitoring: code/devops/monitoring.md
     - Backend:
-      - SEO: services/seo.md
+      - SEO: code/backend/seo.md
     - Frontend:
-      - UI/UX: services/ui-ux.md
+      - UI/UX: code/frontend/ui-ux.md
   - Client Instructions:
     - Overview: client-instructions/client-instructions-overview.md
     - Admin Dashboard:
       - Managing Users: client-instructions/admin-dashboard/managing-users.md
       - Managing Content: client-instructions/admin-dashboard/managing-content.md
     - Service Requests:
-      - Creating a Request: client-instructions/service-requests/creating-request.md
-      - Updating a Request: client-instructions/service-requests/updating-request.md
-      - Closing a Request: client-instructions/service-requests/closing-request.md
+      - Creating a Request: client-instructions/service-requests/creating-requests.md
+      - Updating a Request: client-instructions/service-requests/updating-requests.md
+      - Closing a Request: client-instructions/service-requests/closing-requests.md
     - Common Issues:
       - Troubleshooting: client-instructions/common-issues/troubleshooting.md
       - Error Messages: client-instructions/common-issues/error-messages.md
       - Common Fixes: client-instructions/common-issues/common-fixes.md
   - Design:
     - Overview: design/design-overview.md
-    - Branding: services/branding.md
+    - Branding: design/branding.md
   - Business:
     - Overview: business/business-overview.md
-    - Marketing: services/marketing.md
-    - Sales: services/sales.md
+    - Marketing: business/marketing.md
+    - Sales: business/sales.md
   - Additional Resources:
     - Overview: resources/resources-overview.md
     - Tools and Technologies: resources/tools-and-technologies.md

@@ -8,33 +8,35 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 
 ### 1. Home
 - [Overview](index.md)
-- [About](home/about.md)
+- [About Dunosis](home/about.md)
 - [FAQ](home/faq.md)
 
 ### 2. Code
 - [Overview](code/code-overview.md)
-- [Snippets](code/snippets.md)
+- **Snippets**:
+  - [Overview](code/snippets/snippets-overview.md)
+  - [Components](code/snippets/components.md)
+  - [Integrations](code/snippets/integrations.md)
+  - [Widgets](code/snippets/widgets.md)
 - [Style Guide](code/style-guide.md)
-- [Best Practices](code/best-practices.md)
+- [Lessons Learned](code/lessons-learned.md)
 - **DevOps**:
-  - [Deployment](devops/deployment.md)
-  - [Monitoring](devops/monitoring.md)
-  - [Scaling](devops/scaling.md)
+  - [Deployment](code/devops/deployment.md)
+  - [Monitoring](code/devops/monitoring.md)
 - **Backend**:
-  - [SEO Best Practices](services/seo.md)
+  - [SEO Best Practices](code/backend/seo.md)
 - **Frontend**:
-  - [UI/UX Principles](services/ui-ux.md)
+  - [UI/UX Principles](code/frontend/ui-ux.md)
 
 ### 3. Client Instructions
-- [Overview](client-instructions/overview.md)
+- [Overview](client-instructions/client-instructions-overview.md)
 - **Admin Dashboard**:
   - [Managing Users](client-instructions/admin-dashboard/managing-users.md)
   - [Managing Content](client-instructions/admin-dashboard/managing-content.md)
-  - [Password Reset](client-instructions/admin-dashboard/password-reset.md)
-- **Service Tickets**:
-  - [Creating a Ticket](client-instructions/service-tickets/creating-ticket.md)
-  - [Updating a Ticket](client-instructions/service-tickets/updating-ticket.md)
-  - [Closing a Ticket](client-instructions/service-tickets/closing-ticket.md)
+- **Service Requests**:
+  - [Creating a Request](client-instructions/service-requests/creating-requests.md)
+  - [Updating a Request](client-instructions/service-requests/updating-requests.md)
+  - [Closing a Request](client-instructions/service-requests/closing-requests.md)
 - **Common Issues**:
   - [Troubleshooting](client-instructions/common-issues/troubleshooting.md)
   - [Error Messages](client-instructions/common-issues/error-messages.md)
@@ -42,23 +44,25 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 
 ### 4. Design
 - [Overview](design/design-overview.md)
-- [Branding Guidelines](services/branding.md)
+- [Branding Guidelines](design/branding.md)
 
 ### 5. Business
 - [Overview](business/business-overview.md)
-- [Marketing Strategies](services/marketing.md)
-- [Sales Playbook](services/sales.md)
+- [Marketing Strategies](business/marketing.md)
+- [Sales Playbook](business/sales.md)
 
 ### 6. Additional Resources
 - [Overview](resources/resources-overview.md)
 - [Tools and Technologies](resources/tools-and-technologies.md)
 - [Glossary](resources/glossary.md)
 
+
 ---
 
 ## 🎯 About This Documentation
 
 This site is divided into six main sections to ensure easy navigation:
+
 - **Home**: Learn about Dunosis, its mission, and FAQs.
 - **Code**: Explore developer resources, including style guides, best practices, and DevOps tools.
 - **Client Instructions**: Get clear, step-by-step guides to manage your website or services.
@@ -71,6 +75,7 @@ This site is divided into six main sections to ensure easy navigation:
 ## 🚀 Getting Started
 
 To begin:
+
 1. Explore the **Home** section for an introduction.
 2. Navigate to the section that fits your needs (e.g., **Client Instructions** for clients or **Code** for developers).
 3. Use the **Additional Resources** section for tools and reference materials.
