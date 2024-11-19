@@ -9,14 +9,14 @@ Welcome to the **Additional Resources** section! Here you’ll find valuable too
 ### 1. Tools and Technologies
 Dive into the tools and platforms we use at Dunosis, complete with tips and best practices for each:
 
-- [Overview of Tools](resources/tools-and-technologies.md)
+- [Overview of Tools](resources/tools-and-technologies)
 - Guidance on technologies like Python, Django, React, Docker, and more.
 - Links to helpful third-party tools for hosting, analytics, and performance monitoring.
 
 ---
 
 ### 2. Glossary of Terms
-Unfamiliar with a technical term? Our [Glossary](resources/glossary.md) provides clear definitions and explanations for:
+Unfamiliar with a technical term? Our [Glossary](resources/glossary) provides clear definitions and explanations for:
 
 - Web development jargon (e.g., "API," "SSL").
 - Data analytics terminology (e.g., "dashboard," "data pipeline").
@@ -47,7 +47,7 @@ Step-by-step guides and tutorials to help you:
 
 If you’re looking for a specific resource not listed here:
 
-- Visit our [FAQ](home/faq.md) for general questions.
+- Visit our [FAQ](home/faq) for general questions.
 - Contact us at [info@dunosis.com](mailto:info@dunosis.com) for personalized assistance.
 
 Let’s make your journey with Dunosis as smooth as possible!
