@@ -5,6 +5,12 @@ theme:
   name: material
   features:
     - navigation.footer
+    - navigation.tabs
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.sections
+    - content.code.copy
   font:
     text: Montserrat
     code: Roboto Mono
@@ -47,6 +53,53 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+
+nav:
+  - Home:
+    - Overview: index.md
+    - About: home/about.md
+    - FAQ: home/faq.md
+  - Code:
+    - Overview: code/code-overview.md
+    - Snippets:
+      - Overview: code/snippets/snippets-overview.md
+      - Components: code/snippets/components.md
+      - Integrations: code/snippets/integrations.md
+      - Widgets: code/snippets/widgets.md
+    - Style Guide: code/style-guide.md
+    - Lessons Learned: code/lessons-learned.md
+    - DevOps:
+      - Deployment: code/devops/deployment.md
+      - Monitoring: code/devops/monitoring.md
+    - Backend:
+      - SEO: code/backend/seo.md
+    - Frontend:
+      - UI/UX: code/frontend/ui-ux.md
+  - Client Instructions:
+    - Overview: client-instructions/client-instructions-overview.md
+    - Admin Dashboard:
+      - Managing Users: client-instructions/admin-dashboard/managing-users.md
+      - Managing Content: client-instructions/admin-dashboard/managing-content.md
+      - Password Reset: client-instructions/admin-dashboard/password-reset.md
+    - Service Requests:
+      - Creating a Request: client-instructions/service-requests/creating-requests.md
+      - Updating a Request: client-instructions/service-requests/updating-requests.md
+      - Closing a Request: client-instructions/service-requests/closing-requests.md
+    - Common Issues:
+      - Troubleshooting: client-instructions/common-issues/troubleshooting.md
+      - Error Messages: client-instructions/common-issues/error-messages.md
+      - Common Fixes: client-instructions/common-issues/common-fixes.md
+  - Design:
+    - Overview: design/design-overview.md
+    - Branding Guidelines: design/branding-guidelines.md
+  - Business:
+    - Overview: business/business-overview.md
+    - Marketing: business/marketing.md
+    - Sales: business/sales.md
+  - Additional Resources:
+    - Overview: resources/resources-overview.md
+    - Tools and Technologies: resources/tools-and-technologies.md
+    - Glossary: resources/glossary.md
 
 extra:
   social:

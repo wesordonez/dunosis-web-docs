@@ -1,19 +1,89 @@
-# Welcome to MkDocs
+# Welcome to Dunosis Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide to understanding and working with Dunosis, offering resources for developers, clients, administrators, and the internal team. Whether you're looking for technical guidance, client instructions, or business processes, you'll find everything here.
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 📖 Contents
 
-## Project layout
+### 1. Home
+- [Overview](index.md)
+- [About Dunosis](home/about.md)
+- [FAQ](home/faq.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### 2. Code
+- [Overview](code/code-overview.md)
+- **Snippets**:
+  - [Overview](code/snippets/snippets-overview.md)
+  - [Components](code/snippets/components.md)
+  - [Integrations](code/snippets/integrations.md)
+  - [Widgets](code/snippets/widgets.md)
+- [Style Guide](code/style-guide.md)
+- [Lessons Learned](code/lessons-learned.md)
+- **DevOps**:
+  - [Deployment](code/devops/deployment.md)
+  - [Monitoring](code/devops/monitoring.md)
+- **Backend**:
+  - [SEO Best Practices](code/backend/seo.md)
+- **Frontend**:
+  - [UI/UX Principles](code/frontend/ui-ux.md)
 
-I like to drink :beers: after I played :football:
+### 3. Client Instructions
+- [Overview](client-instructions/client-instructions-overview.md)
+- **Admin Dashboard**:
+  - [Managing Users](client-instructions/admin-dashboard/managing-users.md)
+  - [Managing Content](client-instructions/admin-dashboard/managing-content.md)
+- **Service Requests**:
+  - [Creating a Request](client-instructions/service-requests/creating-requests.md)
+  - [Updating a Request](client-instructions/service-requests/updating-requests.md)
+  - [Closing a Request](client-instructions/service-requests/closing-requests.md)
+- **Common Issues**:
+  - [Troubleshooting](client-instructions/common-issues/troubleshooting.md)
+  - [Error Messages](client-instructions/common-issues/error-messages.md)
+  - [Common Fixes](client-instructions/common-issues/common-fixes.md)
+
+### 4. Design
+- [Overview](design/design-overview.md)
+- [Branding Guidelines](design/branding-guidelines.md)
+
+### 5. Business
+- [Overview](business/business-overview.md)
+- [Marketing Strategies](business/marketing.md)
+- [Sales Playbook](business/sales.md)
+
+### 6. Additional Resources
+- [Overview](resources/resources-overview.md)
+- [Tools and Technologies](resources/tools-and-technologies.md)
+- [Glossary](resources/glossary.md)
+
+
+---
+
+## 🎯 About This Documentation
+
+This site is divided into six main sections to ensure easy navigation:
+
+- **Home**: Learn about Dunosis, its mission, and FAQs.
+- **Code**: Explore developer resources, including style guides, best practices, and DevOps tools.
+- **Client Instructions**: Get clear, step-by-step guides to manage your website or services.
+- **Design**: Access resources for branding and design principles.
+- **Business**: Learn about workflows for marketing, sales, and other internal processes.
+- **Additional Resources**: Access tools, glossary terms, and other helpful content.
+
+---
+
+## 🚀 Getting Started
+
+To begin:
+
+1. Explore the **Home** section for an introduction.
+2. Navigate to the section that fits your needs (e.g., **Client Instructions** for clients or **Code** for developers).
+3. Use the **Additional Resources** section for tools and reference materials.
+
+---
+
+## 💡 Feedback
+
+Your input helps us improve! If you notice something missing or unclear, visit our [FAQ](home/faq.md) or contact us directly through our support channels.
+
+---
