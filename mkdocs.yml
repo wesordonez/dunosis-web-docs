@@ -9,6 +9,7 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.top
+    - navigation.sections
   font:
     text: Montserrat
     code: Roboto Mono
