@@ -69,6 +69,7 @@ nav:
     - Style Guide: code/style-guide.md
     - Lessons Learned: code/lessons-learned.md
     - DevOps:
+      - New Project Repo: code/devops/new-project-repo.md
       - Deployment: code/devops/deployment.md
       - Monitoring: code/devops/monitoring.md
     - Backend:
