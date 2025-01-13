@@ -19,6 +19,7 @@ Discover reusable pieces of code for common functionalities, including:
 ### 2. DevOps Practices
 Learn how we deploy, monitor, and scale projects with step-by-step guides:
 
+- **[New Project Repo](devops/new-project-repo.md)**: How to create a new django web dev project repo.
 - **[Deployment](devops/deployment.md)**: How to deploy Dunosis projects to production environments.
 - **[Monitoring](devops/monitoring.md)**: Keeping track of performance and identifying issues.
 
@@ -72,7 +73,7 @@ If you’d like to suggest additional topics, feel free to reach out!
 Have questions or need guidance? Contact us:
 
 - 📧 **Email**: [info@dunosis.com](mailto:info@dunosis.com)
-- 📞 **Phone**: +1 (708) 669-9225
+- 📞 **Phone**: +1 (773) 202-2074
 
 We’re here to support your coding journey!
 
