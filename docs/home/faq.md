@@ -12,11 +12,12 @@ Dunosis specializes in:
 - **Web Development**: We build modern, responsive, and user-friendly websites.
 - **Data Analytics**: Turning complex datasets into actionable insights through visualizations.
 - **Tech Consulting**: Offering tailored solutions to improve your business operations.
+- **Marketing and Social Media Management**: Sales strategy and content creation that drive sales.
 
 ---
 
 ### Where are you located?
-Dunosis is based in **Chicago, IL**, but we work with clients locally and internationally.
+Dunosis is based in **Chicago, IL** and **Santa Cruz, Bolivia**, and we work with clients locally and internationally.
 
 ---
 
@@ -104,7 +105,7 @@ Our pricing depends on the project scope. Here’s a general breakdown:
 
 - Basic websites start at $1,500.
 - Advanced dashboards or applications range from $3,000–$10,000.
-- Hourly consulting rates start at $100/hour.
+- Hourly consulting rates start at $50/hour.
 
 Contact us for a custom quote tailored to your needs.
 
@@ -131,6 +132,6 @@ If you didn’t find the answer to your question, feel free to:
 
 - **Check out our [Contact Page](http://www.dunosis.com)**
 - **Email us at [info@dunosis.com](mailto:info@dunosis.com)**
-- **Call us at +1 (708) 669-9225**
+- **Call us at +1 (773) 202-2074**
 
 We’re here to help!
