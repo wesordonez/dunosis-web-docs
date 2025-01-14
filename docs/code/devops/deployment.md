@@ -14,12 +14,12 @@ For this to work, you need to have used the web dev template and have a working 
 ## 1. Create a New App Resource
 
 Click on Create > App
-![New Repo](./assets/new-project-repo/new-repo0.jpeg)
+![New Repo](./assets/deployment/deployment1.jpeg)
 
 ## 2. Select the Repo to Deploy
 
 Click on GitHub provider and find and select the desired repo from the drop down menu.
-![New Repo](./assets/new-project-repo/new-repo0.jpeg)
+![New Repo](./assets/deplouyment/deployment2.jpeg)
 
 ## 3. Edit the App Resources
 
@@ -28,7 +28,7 @@ Click Edit and change the amount of resources needed by the app in order to redu
 !!! note
     Resources can always be changed later depending on needs of the project and website.
 
-![New Repo](./assets/new-project-repo/new-repo0.jpeg)
+![New Repo](./assets/deployment/deployment3.jpeg)
 
 ## 4. Add Environemnt Variables
 
@@ -37,13 +37,21 @@ Using existing projects or `.env` file, create and define the environment variab
 !!! tip "Pro Tip"
     Use the "Bulk Editor" to make the process much quicker and easier.
 
+![New Repo](./assets/deployment/deployment4.jpeg)
+
 ## 5. Edit App Info
 
 Change the display name of the app and move to Dunosis Cloud group for better organization and consistency.
 
+![New Repo](./assets/deployment/deployment5.jpeg)
+
+
 ## 6. Review and Create Resources
 
 This concludes part one of the deployment process. By this stage, you should have created a new app resource that automatically pulls new repo changes on the main branch and deploys them. 
+
+![New Repo](./assets/deployment/deployment6.jpeg)
+
 
 ## Part 2: Deploying a Static Site
 ## 1. Create a New Resource from Source Code
