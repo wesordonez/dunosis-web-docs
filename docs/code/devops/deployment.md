@@ -85,9 +85,20 @@ This concludes part 2 of the deployment progress. By this stage, in the app over
 
 Navigate to the Dunosis Postgres Cluster and add a new database with the same name as the resource with a "-db" suffix. (e.g. new-project-db)
 
+![New Repo](./assets/deployment/deploy10.jpeg)
+
 ## 2. Attach Database to App
 
 In the app overview, click on Create>Create/Attach existing database. Select the database and click create. 
+
+![New Repo](./assets/deployment/deploy11.jpeg)
+![New Repo](./assets/deployment/deploy12.jpeg)
+
+This concludes part 3 of the deployment process. By this stage you should have a deployed app with 3 components: web service, static site, and database. At this point, it's likely that the deployments have been unsuccessful. Next, we will focus on troublshooting and finalizing the deployment.
+
+## Part 4: Adding a Domain and Finalizing Deployment
+
+
 
 
 
