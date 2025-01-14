@@ -14,12 +14,12 @@ For this to work, you need to have used the web dev template and have a working 
 ## 1. Create a New App Resource
 
 Click on Create > App
-![New Repo](./assets/deployment/deployment1.jpeg)
+![New Repo](./assets/deployment/deploy1.jpeg)
 
 ## 2. Select the Repo to Deploy
 
 Click on GitHub provider and find and select the desired repo from the drop down menu.
-![New Repo](./assets/deplouyment/deployment2.jpeg)
+![New Repo](./assets/deployment/deploy2.jpeg)
 
 ## 3. Edit the App Resources
 
@@ -28,7 +28,7 @@ Click Edit and change the amount of resources needed by the app in order to redu
 !!! note
     Resources can always be changed later depending on needs of the project and website.
 
-![New Repo](./assets/deployment/deployment3.jpeg)
+![New Repo](./assets/deployment/deploy3.jpeg)
 
 ## 4. Add Environemnt Variables
 
@@ -37,20 +37,22 @@ Using existing projects or `.env` file, create and define the environment variab
 !!! tip "Pro Tip"
     Use the "Bulk Editor" to make the process much quicker and easier.
 
-![New Repo](./assets/deployment/deployment4.jpeg)
+![New Repo](./assets/deployment/deploy4.jpeg)
 
 ## 5. Edit App Info
 
 Change the display name of the app and move to Dunosis Cloud group for better organization and consistency.
 
-![New Repo](./assets/deployment/deployment5.jpeg)
+![New Repo](./assets/deployment/deploy5.jpeg)
 
 
 ## 6. Review and Create Resources
 
-This concludes part one of the deployment process. By this stage, you should have created a new app resource that automatically pulls new repo changes on the main branch and deploys them. 
+Review the price which should be $5.00 and click Create Resources. 
 
-![New Repo](./assets/deployment/deployment6.jpeg)
+![New Repo](./assets/deployment/deploy6.jpeg)
+
+This concludes part one of the deployment process. By this stage, you should have created a new app resource that automatically pulls new repo changes on the main branch and deploys them. 
 
 
 ## Part 2: Deploying a Static Site
@@ -58,15 +60,23 @@ This concludes part one of the deployment process. By this stage, you should hav
 
 Click on Create>New Resource from Source Code
 
+![New Repo](./assets/deployment/deploy7.jpeg)
+
+
 ## 2. Edit Resource
 
-* Change the name of the app to be the same as the resource name with "-static" suffix. (e.g. new-project-static)
-* Change the resource type to Static Site which will act as a CDN to serve the static files to the main deployment.
-* Change the output directory to `/staticfiles`
+1. Change the name of the app to be the same as the resource name with "-static" suffix. (e.g. new-project-static)
+2. Change the resource type to Static Site which will act as a CDN to serve the static files to the main deployment.
+3. Change the output directory to `/staticfiles`
+
+![New Repo](./assets/deployment/deploy8.jpeg)
+
 
 ## 3. Review and Create
 
 Ensure the newly created resource is free ($0.00) and click Create. 
+
+![New Repo](./assets/deployment/deploy9.jpeg)
 
 This concludes part 2 of the deployment progress. By this stage, in the app overview you should have two components. Again, the deployments will likely be failing by this stage and that's normal. 
 
