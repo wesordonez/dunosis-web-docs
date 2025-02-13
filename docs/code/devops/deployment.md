@@ -117,6 +117,22 @@ Navigate to the App Settings and click on Add Domain
 ![New Repo](./assets/deployment/deploy14.jpeg)
 ![New Repo](./assets/deployment/deploy15.jpeg)
 
+## 4. OPTIONAL Add Multiple Domains to a Website
+
+Follow these steps in order to add multiple domains to a website, for instance, when adding a blank or wildcard domain to a website (website.com in addition to www.website.com).
+
+ 1. Add a wildcard CNAME record and an ALIAS record in Porkbun with the same "answer" provided by Digital Ocean in the previous step.
+
+ ![New Repo](./assets/deployment/deploy16.png)
+
+!!! note
+    The ALIAS record is necessary for a wildcard domain (without any prefix). Otherwise, just add a CNAME record for every additional domain to be added to the list.
+
+ 2. Add the new additional domains in Digital Ocean.
+
+ 3. Add the domains to the DJANGO_ALLOWED_HOSTS environment variable separated only with a comma (NO SPACES!). E.g. www.website.com,website.com 
+
+ ![New Repo](./assets/deployment/deploy17.png)
 
 ## 3. Test New Domain
 
