@@ -376,4 +376,47 @@ Dunosis Team
 
 ## 6. Transition to Maintenance & Support
 
+### Overview  
+Once the project is completed and the final payment is collected, the next step is to transition the client into a **Maintenance & Support Plan** or hand over full control if they choose to manage their own deployment. 
+
+All projects built by Dunosis include **one year of complimentary maintenance and support**, covering:
+
+✅ **Domain management** (renewals, DNS settings)  
+✅ **Database and server backups & upgrades**  
+✅ **Light content updates** (small text/image changes)  
+
+After the first year, clients can **choose a paid maintenance plan** or take over full responsibility for their site’s upkeep.
+
+---
+
+### 📌 Client Review of Maintenance Options  
+
+Clients can choose from **four levels of ongoing support**:
+
+| Plan | Coverage | Price |
+|------|----------|-------|
+| **Lite** | Domain management, database backups, and uptime monitoring | $5/month |
+| **Basic** | Lite package + light content updates (text/images) | $10/month |
+| **Mid** | Basic package + performance optimization and security monitoring | $20/month |
+| **Pro** | Mid package + feature updates, integrations, and priority support | $30/month |
+| **None** | Client assumes responsibility for hosting, maintenance, and security | Free |
+
+📌 **Clients opting for "None" must:**  
+- Handle their own **server updates, security patches, and backups**  
+- Renew their **domain and SSL certificates manually**  
+- Troubleshoot **any technical issues** independently  
+
+---
+
+### 📅 Scheduling a Follow-Up Plan  
+
+Since Dunosis provides **complimentary maintenance for the first year**, it’s important to schedule a follow-up plan to discuss **ongoing support options**.  
+
+✅ **3-Month Check-In**: Ensure everything is running smoothly  
+✅ **6-Month Review**: Discuss content updates, performance, and security improvements  
+✅ **9-Month Pre-Renewal Discussion**: Remind the client about their maintenance plan options  
+✅ **12-Month Final Review**: If no paid plan is chosen, transition maintenance responsibilities to the client  
+
+---
+
 ## 7. Client Relationship Management
