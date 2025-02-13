@@ -105,15 +105,21 @@ This concludes part 3 of the deployment process. By this stage you should have a
 
 Navigate to the App Settings and click on Add Domain
 
-## 2. Copy the Link and Add to Porkbun
+![New Repo](./assets/deployment/deploy13.jpeg)
 
-Click and follow the instructions to add to CNAME record
+## 2. Configure Domain
 
-## 3. Save, Submit and Test Domain
+ 1. Add domain or subdomain name
+ 2. Select "You manage your domain" option
+ 3. Copy CNAME Alias and add to CNAME record "answer" in Porkbun
+ 4. Go back to Digital Ocean and click "Add Domain"
+
+![New Repo](./assets/deployment/deploy14.jpeg)
+![New Repo](./assets/deployment/deploy15.jpeg)
+
+
+## 3. Test New Domain
 
 Once project finishes deploying test the new domain. 
 
-
-
-
-
+SUCCESS! This concludes the new domain section! By this stage, you should have a fully deployed app on a custom domain name in Digital Ocean!
