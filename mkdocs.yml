@@ -93,8 +93,8 @@ nav:
     - Marketing: business/marketing.md
     - Sales: business/sales.md
     - Workflows:
-      - Client Onboarding: business/workflows/client-onboarding.md
-      - Client Offboarding: business/workflows/client-offboarding.md
+      - Client On-Boarding: business/workflows/client-onboarding.md
+      - Client Close-Out: business/workflows/client-close-out.md
   - Additional Resources:
     - Overview: resources/resources-overview.md
     - Tools and Technologies: resources/tools-and-technologies.md
