@@ -147,6 +147,60 @@ Dunosis Team
 
 ## 3. Project Documentation
 
+### Overview  
+Before closing out a project, ensure that all documentation is properly prepared and accessible to the client. This includes **user manuals, source code documentation, and design specifications**. Providing well-organized documentation enhances the client’s experience, simplifies maintenance, and ensures a smooth transition for any future updates.
+
+---
+
+### 📖 User Manuals & Guides  
+
+The **official project documentation** should be ready and up to date before delivery. This includes: 
+
+✅ An **overview of the system’s functionality**  
+✅ Instructions for **managing the website or application**  
+✅ Links to **external resources or additional support**  
+
+📌 **Client Documentation Access:**  
+
+Clients should be provided with a direct link to the **official Dunosis documentation page**:  
+
+➡️ **[Dunosis Documentation](https://docs.dunosis.com)**  
+
+Any project-specific manuals should be included in the final delivery folder or as an attached PDF.
+
+---
+
+### 📝 Source Code Documentation  
+
+A well-documented codebase ensures easier maintenance and scalability. Before closing the project, confirm that: 
+
+✅ The **README file** is updated with:  
+   - Project description  
+   - Installation instructions  
+   - Deployment steps  
+   - Configuration details (e.g., environment variables)  
+✅ Any **inline code comments** are present where necessary to explain complex logic  
+✅ API endpoints (if applicable) are documented  
+
+---
+
+### 🎨 Design Specifications
+
+A copy of the final design files should be included in the project handover package. This ensures that the client (or future developers) have access to:
+
+✅ The Figma Design Guide, including typography, colors, and UI components
+
+✅ Final brand assets, such as logos, icons, and illustrations
+
+✅ Any exported assets (SVGs, PNGs, or font files) required for future updates
+
+📌 Deliverable Formats:
+
+ -	Figma File Access: Provide a link to the final design file.
+ -	Local File Exports: Deliver high-resolution versions of graphics in Google Drive, Dropbox, or a ZIP archive.
+
+---
+
 ## 4. Project Archiving
 
 ## 5. Collect Final Payment
