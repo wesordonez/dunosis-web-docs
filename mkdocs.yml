@@ -92,6 +92,9 @@ nav:
     - Overview: business/business-overview.md
     - Marketing: business/marketing.md
     - Sales: business/sales.md
+    - Workflows:
+      - Client Onboarding: business/workflows/client-onboarding.md
+      - Client Offboarding: business/workflows/client-offboarding.md
   - Additional Resources:
     - Overview: resources/resources-overview.md
     - Tools and Technologies: resources/tools-and-technologies.md
