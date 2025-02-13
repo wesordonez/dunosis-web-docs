@@ -204,6 +204,7 @@ A copy of the final design files should be included in the project handover pack
 ## 4. Project Archiving
 
 ### Overview  
+
 The **Archiving** process ensures that all project files, assets, and code are securely stored and organized before finalizing the close-out. Proper archiving helps maintain historical records, allows for future retrieval, and provides clients with a structured package of deliverables.
 
 ---
@@ -250,7 +251,12 @@ All files should be **uploaded to Google Drive** under the **Dunosis Historical 
 ### 📦 Bundling the Client Handover Package  
 
 Once all files are organized, create a **final ZIP package** for the client containing:  
-✅ **Final Codebase** (excluding unnecessary development files)  
+✅ **Final Codebase** (excluding unnecessary development files) 
+
+Navigate to the repo directory and use this command to zip the source code and git history.
+``` bash
+zip -r my_project.zip . -x "*.zip"
+``` 
 ✅ **Documentation** (installation guide, credentials handover, FAQs)  
 ✅ **Design Assets** (logos, UI elements, exported files)  
 ✅ **Database Dumps** (if applicable)  
@@ -280,6 +286,93 @@ Once the project is archived and delivered:
 ---
 
 ## 5. Collect Final Payment
+
+# Client Close-Out Workflow
+
+## 5️⃣ Collect Final Payment
+
+### Overview  
+The **final payment collection** is the last step in closing out a project. Ensuring a smooth and professional payment process helps maintain good client relationships and reinforces your business credibility. This section outlines the available payment methods, invoicing process, and a professional email template for requesting payment.
+
+!!! danger "Important!"
+    This step is the MOST important in this entire workflow. It acts as a blocker for the remaining steps. Clients will NOT recieve a ZIP file of the project and the website will be taken down if this payment is not received. 
+
+---
+
+### 💳 Payment Options  
+
+Clients can complete their final payment using any of the following methods:
+
+✅ **Stripe** *(Preferred for Online Payments)*  
+   - Secure credit/debit card processing  
+   - Client receives an instant receipt  
+   - Payment link generated via **Stripe Dashboard**  
+
+✅ **Cash Payment** *(For Local Clients Only)*  
+   - Must be confirmed and documented with a receipt  
+
+✅ **POS Terminal** *(For In-Person Transactions)*  
+   - Processed through the **Evalon Payment Terminal**  
+   - Client receives an emailed receipt  
+
+✅ **Zelle** *(For Direct Bank Transfers)*  
+   - Faster than standard bank transfers  
+   - No transaction fees  
+   - Payments sent to:  
+     **[dunosis]**  
+
+---
+
+### 🧾 Invoicing Process  
+
+1. **Generate the Final Invoice**  
+   - Use **Odoo Accounting** to create an invoice  
+   - Ensure the invoice includes:  
+     - **Total Amount Due**  
+     - **Payment Due Date**  
+     - **Breakdown of Services Rendered**  
+     - **Payment Instructions & Accepted Methods**  
+
+2. **Send the Invoice to the Client**  
+   - Email the invoice with a clear subject line  
+   - Attach a PDF version for easy reference  
+
+3. **Follow Up on Unpaid Invoices**  
+   - If no payment is received within **3 business days**, send a **polite reminder**  
+   - If overdue, escalate by **calling the client directly**  
+
+---
+
+### 📧 Final Payment Request Email Template  
+
+If you're not discussing payment in person or over the phone, you can use this email template to **professionally request final payment**:
+
+```plaintext
+**Subject:** Final Invoice for [Project Name] – Payment Due  
+
+Hi [Client's Name],  
+
+I hope you’re doing well!  
+
+I wanted to follow up regarding the final invoice for [Project Name]. We have now completed all deliverables, and everything is ready for launch. Please find attached the invoice for the final payment of **$[Amount]**, due by [Due Date].  
+
+You can complete the payment using any of the following methods:  
+- **Stripe:** [Insert Payment Link]  
+- **Zelle:** [Your Zelle Contact Info]  
+- **POS Terminal (In-Person Payment)**  
+- **Cash (If applicable)**  
+
+Please confirm once the payment has been processed, and let me know if you have any questions.  
+
+Thank you for your partnership on this project—I truly appreciate the opportunity to work with you!  
+
+Best,  
+[Your Name]  
+Dunosis Team  
+
+```
+
+---
 
 ## 6. Transition to Maintenance & Support
 
