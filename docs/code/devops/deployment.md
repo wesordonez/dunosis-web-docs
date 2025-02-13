@@ -98,6 +98,21 @@ This concludes part 3 of the deployment process. By this stage you should have a
 
 ## Part 4: Adding a Domain and Finalizing Deployment
 
+!!! note 
+    This section assumes you already have a domain. For more info on purchasing or transfering a domain see this guide.
+
+## 1. Add a Domain to the App Settings in Digital Ocean
+
+Navigate to the App Settings and click on Add Domain
+
+## 2. Copy the Link and Add to Porkbun
+
+Click and follow the instructions to add to CNAME record
+
+## 3. Save, Submit and Test Domain
+
+Once project finishes deploying test the new domain. 
+
 
 
 
