@@ -6,13 +6,11 @@ Welcome to the **Code** section of the Dunosis Documentation! This section is yo
 
 ## 🧭 What You’ll Find Here
 
-### 1. Code Snippets
-Discover reusable pieces of code for common functionalities, including:
+### 1. Overview
+Overview of the Dunosis Code Documentation, including:
 
-- **[Overview](snippets/snippets-overview.md)**: Introduction to code snippets and how to use them.
-- **[Components](snippets/components.md)**: Modular building blocks for your projects.
-- **[Integrations](snippets/integrations.md)**: Snippets for third-party services and APIs.
-- **[Widgets](snippets/widgets.md)**: Pre-built UI elements for dynamic functionality.
+- **[Style Guide](snippets/components.md)**: Modular building blocks for your projects.
+- **[Lessons Learned](snippets/integrations.md)**: Snippets for third-party services and APIs.
 
 ---
 
