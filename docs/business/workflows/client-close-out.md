@@ -203,6 +203,82 @@ A copy of the final design files should be included in the project handover pack
 
 ## 4. Project Archiving
 
+### Overview  
+The **Archiving** process ensures that all project files, assets, and code are securely stored and organized before finalizing the close-out. Proper archiving helps maintain historical records, allows for future retrieval, and provides clients with a structured package of deliverables.
+
+---
+
+### 📂 Organizing & Storing Project Files  
+
+Before completing the project, all relevant files should be stored in a centralized location for historical reference.  
+
+✅ **Backup all project files, including:**  
+
+- Source code and **final commit history**  
+- Design files (Figma, logos, branding assets)  
+- Documentation (manuals, README, and setup guides)  
+- Any other project-related assets (images, videos, fonts, third-party integrations)  
+
+📌 **Storage Location:**  
+
+All files should be **uploaded to Google Drive** under the **Dunosis Historical Content** folder in the corresponding client folder:
+
+➡️ **[Google Drive Archive](https://drive.google.com/your-folder-link-here)**  
+
+**Folder Structure Example:**  
+
+```plaintext
+📂 Project_Archive
+├── Codebase
+│   ├── final_source_code.zip
+│   ├── repository_backup.git
+│   ├── readme.md
+├── Assets
+│   ├── branding/
+│   ├── images/
+│   ├── videos/
+├── Documentation
+│   ├── project_manual.pdf
+│   ├── setup_guide.pdf
+├── Design
+│   ├── figma_link.txt
+│   ├── exported_assets.zip
+```
+
+---
+
+### 📦 Bundling the Client Handover Package  
+
+Once all files are organized, create a **final ZIP package** for the client containing:  
+✅ **Final Codebase** (excluding unnecessary development files)  
+✅ **Documentation** (installation guide, credentials handover, FAQs)  
+✅ **Design Assets** (logos, UI elements, exported files)  
+✅ **Database Dumps** (if applicable)  
+
+📌 **Delivery Method:**  
+- Send via **Google Drive** (preferred)  
+- Email the ZIP package (if file size allows)  
+- Provide a download link from a **secure cloud storage service**  
+
+---
+
+### 🔒 Privatizing the GitHub Repository  
+
+Once the project is archived and delivered:  
+
+✅ **Change repository visibility to private** (unless agreed otherwise with the client)  
+   - Navigate to **GitHub Repo → Settings → Change Repository Visibility**  
+   - Confirm the action to restrict future public access  
+
+✅ **Remove external collaborators** (if necessary)  
+   - Check **Settings → Manage Access**  
+   - Remove non-team members  
+
+✅ **Transfer ownership (if applicable)**  
+   - If the client is taking full ownership, transfer the repository to their GitHub organization.  
+
+---
+
 ## 5. Collect Final Payment
 
 ## 6. Transition to Maintenance & Support
