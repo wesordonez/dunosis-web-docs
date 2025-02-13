@@ -53,7 +53,7 @@ To edit existing content, follow these steps:
 4. Save the changes to the file.
 5. Commit the changes with a meaningful commit message.
 6. If you are running a local MkDocs server, refresh the page to see the changes. If not, you may need to rebuild the site using the `mkdocs build` command.
-c
+
 #### Adding New Content
 
 To add new content, follow these steps:
