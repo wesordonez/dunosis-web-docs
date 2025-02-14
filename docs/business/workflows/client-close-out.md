@@ -420,3 +420,146 @@ Since Dunosis provides **complimentary maintenance for the first year**, it’s 
 ---
 
 ## 7. Client Relationship Management
+
+### Overview  
+Maintaining a strong relationship with clients beyond project completion is essential for long-term business growth. The final step in the close-out workflow is **expressing gratitude, providing final deliverables, requesting referrals and reviews, and sharing the project success**.  
+
+This process includes:  
+
+✅ A **final email with deliverables** (ZIP files, documentation, and relevant links)  
+✅ A **thank-you note** to show appreciation for the partnership  
+✅ A **request for referrals and reviews** to help grow our business  
+✅ A **custom QR code** for easy access to the new website  
+✅ **Celebrating the project!** – Social media, portfolio updates, and network sharing  
+
+---
+
+### 📧 Final Email & Thank You Note  
+
+**Subject:** 🎉 Your Website is Ready! Final Files & Next Steps  
+
+```plaintext
+
+Hi [Client's Name],  
+
+Congratulations! Your website is now fully completed, and it’s been a pleasure working with you on this project. 🎉  
+
+Attached, you’ll find all the final deliverables, including:  
+📂 **Final Source Code & Assets** (ZIP file)  
+📖 **User Manual & Documentation**  
+🔑 **Login Credentials & Access Links**  
+🌐 **Your Live Website:** [Insert Website URL]  
+
+We’d love to hear your feedback! If you’re happy with the outcome, a **short review** would mean the world to us. You can leave a review here:  
+➡️ **[Google Reviews](https://your-review-link.com)**  
+➡️ **[Trustpilot](https://your-trustpilot-link.com)**  
+
+Additionally, if you know someone who needs a **website, tech consulting, or digital solutions**, we’d greatly appreciate any referrals!  
+
+As a thank you, here’s a **custom QR code** for your website—perfect for business cards, social media, or marketing materials:  
+
+📌 **Your Website QR Code:**  
+[Insert QR Code Image]  
+
+Please don’t hesitate to reach out if you have any questions or need any last-minute adjustments.  
+
+Thank you again for trusting Dunosis with your project—I look forward to working together again in the future!  
+
+Best,  
+[Your Name]  
+Dunosis Team  
+📧 support@dunosis.com  
+📞 [Your Phone Number]  
+
+```
+
+---
+
+### 📂 Deliverables & Attachments  
+
+Before finalizing the project, ensure that the client receives all necessary files and resources:  
+
+- **Final ZIP File**  
+    - Project source code and assets  
+    - Database exports (if applicable)  
+
+- **User Documentation**  
+    - Setup guide  
+    - Maintenance notes  
+
+- **Login Credentials**  
+    - CMS and hosting access details  
+
+- **Custom QR Code**  
+    - A scannable QR code linking to the client’s new website  
+
+---
+
+### ⭐ Requesting Referrals & Reviews  
+
+Encouraging happy clients to **spread the word** and **leave a review** is key for growing Dunosis.  
+
+#### 📌 Ask for Reviews on Multiple Platforms:
+
+- **[Google Reviews](https://your-review-link.com)**  
+- **[Trustpilot](https://your-trustpilot-link.com)**  
+- **[LinkedIn Recommendations](https://linkedin.com/in/your-profile)**  
+
+#### 📌 Referral Incentive Program (Optional):  
+
+- Offer a **discount on future services** for referred clients  
+- Provide a **small gift or bonus feature** for successful referrals  
+
+---
+
+## 🎉 Celebrating the Project!  
+
+A project launch isn’t just the end—it’s an opportunity to **showcase success and attract new business**.  
+
+### 📢 Social Media Announcement  
+
+Post a **launch announcement** on Dunosis’ social media pages, including:  
+
+✅ **Screenshots or a video demo** of the new website  
+✅ **A tag and mention** of the client (if they agree)  
+✅ **A brief case study or client testimonial**  
+
+#### **Example Post:**  
+
+> 🚀 **Another successful launch!**  
+> We’re proud to introduce [Client Name]’s brand-new website, designed & developed by Dunosis.  
+> 🌐 Check it out: [Website URL]  
+>   
+> From [short description of project goal], we worked closely with [Client Name] to bring their vision to life.  
+>   
+> A huge thank you to [Client Name] for trusting us with this project! 🎉  
+>   
+> #WebDesign #TechForBusiness #Dunosis #WebsiteLaunch  
+
+#### ✅ Engage with the Client’s Post  
+Encourage the client to share their new website on their own social media channels.  
+- Like, comment, and engage with their post to increase visibility  
+- If applicable, write a short LinkedIn post **highlighting the project**  
+
+---
+
+### 🏆 Adding to the Dunosis Portfolio  
+
+Each successful project should be **added to the Dunosis website portfolio** to showcase our work and attract new clients.  
+
+#### ✅ Portfolio Page Update  
+- Add **high-quality screenshots** of the final design  
+- Include a **brief description** of the project scope and goals  
+- Highlight **key features and technologies used**  
+
+#### ✅ Case Study (Optional)  
+For major projects, consider creating a **detailed case study**:  
+
+1. **Client’s Problem & Project Goals** – Explain the client’s needs and initial challenges.  
+2. **Our Approach & Technologies Used** – Outline the solutions provided.  
+3. **Final Results & Client Testimonial** – Showcase measurable outcomes and client feedback.  
+
+📌 **Website Portfolio Update:**  
+➡️ **[Dunosis Portfolio](https://dunosis.com/portfolio)**  
+
+---
