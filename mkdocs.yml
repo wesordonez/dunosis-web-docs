@@ -53,6 +53,7 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - pymdownx.tasklist
 
 nav:
   - Home:
@@ -61,11 +62,6 @@ nav:
     - FAQ: home/faq.md
   - Code:
     - Overview: code/code-overview.md
-    - Snippets:
-      - Overview: code/snippets/snippets-overview.md
-      - Components: code/snippets/components.md
-      - Integrations: code/snippets/integrations.md
-      - Widgets: code/snippets/widgets.md
     - Style Guide: code/style-guide.md
     - Lessons Learned: code/lessons-learned.md
     - DevOps:
@@ -97,6 +93,9 @@ nav:
     - Overview: business/business-overview.md
     - Marketing: business/marketing.md
     - Sales: business/sales.md
+    - Workflows:
+      - Client On-Boarding: business/workflows/client-onboarding.md
+      - Client Close-Out: business/workflows/client-close-out.md
   - Additional Resources:
     - Overview: resources/resources-overview.md
     - Tools and Technologies: resources/tools-and-technologies.md

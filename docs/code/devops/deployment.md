@@ -1,9 +1,5 @@
 # Deployments on Digital Ocean App Platform
 
-!!! warning ":construction: Under Construction :construction:"
-
-    This section is still under construction. Facts, information, and data in here may not be complete or accurate yet. 
-
 This is a guide on how to create a new App Platform deployment on DigitalOcean. A fully deployed django app with custom domain will be the end result of this guide by following these steps: 
 
 ## Prerequisites
