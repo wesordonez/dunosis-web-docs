@@ -95,6 +95,7 @@ nav:
     - Sales: business/sales.md
     - Workflows:
       - Client On-Boarding: business/workflows/client-onboarding.md
+      - On-Boarding Questions: business/workflows/onboarding-questions.md
       - Client Close-Out: business/workflows/client-close-out.md
   - Additional Resources:
     - Overview: resources/resources-overview.md
