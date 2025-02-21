@@ -140,3 +140,61 @@ Understanding the client’s **technical requirements** ensures a smooth develop
 - **Will multiple people in your team need different levels of website access?**  
 
 ---
+
+## Industry-Specific Client Intake Questions  
+
+Different businesses have different needs. This section **breaks down intake questions by industry focus**, ensuring we collect the right details for marketing, social media, or web development projects.  
+
+---
+
+### 📢 Marketing Intake Questions  
+
+Understanding the client’s **marketing strategy** helps tailor solutions for their audience and growth goals.  
+
+- **What are your current marketing efforts?** *(Email, SEO, paid ads, social media, influencer marketing?)*  
+- **What marketing strategies have worked for you in the past?**  
+- **What hasn’t worked, and why?**  
+- **Do you have a brand voice or messaging guide?** *(Tone, style, key messages?)*  
+- **What are your top 3 marketing priorities for the next 6 months?**  
+- **Are you looking for:**  
+    - **Organic growth** *(SEO, content marketing, social media engagement?)*  
+    - **Paid advertising** *(Google Ads, Facebook Ads, Instagram, TikTok, etc.)*  
+- **Do you need help with email marketing and automation?** *(Drip campaigns, newsletters, abandoned cart emails?)*  
+
+---
+
+### 📱 Social Media Intake Questions  
+
+If the client wants **social media strategy or management**, these questions help define **platforms, tone, and goals**.  
+
+- **Which social media platforms are most important for your business?** *(Instagram, LinkedIn, Twitter/X, TikTok, YouTube?)*  
+- **How frequently do you post, and do you have a content calendar?**  
+- **Are you looking for:**  
+    - **Social media management** *(Posting, scheduling, engagement?)*  
+    - **Ad campaigns** *(Paid promotions, targeting strategy?)*  
+    - **Both?**  
+- **What’s your preferred tone and style on social media?**  
+    - Casual  
+    - Professional  
+    - Fun  
+    - Authoritative  
+- **Do you have high-quality images and videos, or do you need content creation?** *(Photography, videography, graphic design?)*  
+- **Are you currently tracking performance with analytics?** *(Meta Business Suite, Google Analytics, third-party tools?)*  
+
+---
+
+### 🌐 Web Development Intake Questions  
+
+If the client needs a **new website or redesign**, these questions clarify **technical and strategic needs**.  
+
+- **Will the site need e-commerce functionality?** *(Shopify, WooCommerce, Stripe, PayPal integration?)*  
+- **Should the website be focused on:**  
+    - Lead generation *(Forms, CTAs, email collection?)*  
+    - Content marketing *(Blog, SEO, resource hub?)*  
+    - Showcasing services *(Portfolio, case studies, testimonials?)*  
+- **Do you have an existing website structure, or do we need to create a sitemap from scratch?**  
+- **Do you require any custom features?** *(Forms, calculators, appointment booking, interactive elements?)*  
+- **What is your preferred domain name?** *(If not purchased, do you need domain registration assistance?)*  
+- **How important is page speed and SEO optimization for you?** *(Do you need performance testing and ranking improvements?)*  
+
+---
