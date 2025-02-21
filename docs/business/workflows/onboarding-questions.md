@@ -56,3 +56,34 @@ Establishing communication preferences ensures a smooth working relationship and
     - Hands-on with frequent updates, or hands-off with milestone check-ins?  
 
 ---
+
+
+##  Identifying Pain Points & Must-Haves  
+
+This part of the conversation helps uncover the **client's frustrations and key requirements** to ensure the project delivers maximum value.  
+
+
+## 🔍 Pain Points – Questions to Dig Deeper  
+
+Understanding the client’s pain points helps identify **challenges, roadblocks, and opportunities for improvement**.  
+
+- **What are the biggest challenges you face with your current website?**  
+- **Have you lost customers due to website or digital issues?**  
+- **What’s been the most frustrating part of managing your online presence?**  
+- **Are there any gaps between your website and customer expectations?**  
+- **Is your website bringing in leads/sales? If not, why do you think that is?**  
+- **Are there features or integrations you need that your current setup doesn’t provide?**  
+
+---
+
+## 💡 Must-Haves – Getting Clear on Priorities  
+
+Defining the client's must-haves ensures that the **final deliverable aligns with their expectations**.  
+
+- **What are three things this project MUST include for you to consider it successful?**  
+- **Are there any specific functionalities you absolutely need?**  
+    - *(e.g., booking system, e-commerce, client portal, custom forms, etc.)*  
+- **Do you have SEO or content marketing as a priority, or is design the main focus?**  
+
+---
+
