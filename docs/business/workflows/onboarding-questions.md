@@ -63,7 +63,7 @@ Establishing communication preferences ensures a smooth working relationship and
 This part of the conversation helps uncover the **client's frustrations and key requirements** to ensure the project delivers maximum value.  
 
 
-## 🔍 Pain Points – Questions to Dig Deeper  
+### 🔍 Pain Points – Questions to Dig Deeper  
 
 Understanding the client’s pain points helps identify **challenges, roadblocks, and opportunities for improvement**.  
 
@@ -76,7 +76,7 @@ Understanding the client’s pain points helps identify **challenges, roadblocks
 
 ---
 
-## 💡 Must-Haves – Getting Clear on Priorities  
+### 💡 Must-Haves – Getting Clear on Priorities  
 
 Defining the client's must-haves ensures that the **final deliverable aligns with their expectations**.  
 
@@ -87,3 +87,56 @@ Defining the client's must-haves ensures that the **final deliverable aligns wit
 
 ---
 
+
+## 3️⃣ Defining Client Preferences  
+
+Understanding the client's preferences helps ensure the website aligns with their **brand identity, functionality needs, and technical requirements**. This section explores **design aesthetics, must-have features, and backend preferences** to tailor the project to their vision.  
+
+---
+
+### Visual & Branding Preferences  
+
+Clarifying the client's branding expectations ensures the **design reflects their brand identity** and **connects with their audience**.  
+
+- **Do you have a brand identity already established?**  
+    *(Logos, colors, typography, brand guidelines?)*  
+- **Do you want your site to feel:**  
+    - Modern and sleek  
+    - Fun and vibrant  
+    - Professional and corporate  
+- **Are there any specific color palettes or styles you love?**  
+- **Do you have any design inspiration?** *(Websites you like or competitors you admire?)*  
+- **Would you like us to handle branding elements, or will you provide assets?**  
+
+---
+
+### ⚙️ Functionality & Features  
+
+This section helps identify **essential website features and integrations**.  
+
+- **Do you need:**  
+    - E-commerce functionality? *(Shopify, WooCommerce, Stripe, etc.)*  
+    - Appointment booking? *(Calendly, integrated scheduling tools?)*  
+    - Custom integrations? *(APIs, CRM systems, automation?)*  
+- **Do you want blog functionality?**  
+    - If so, how often will you post? *(Weekly, monthly?)*  
+- **Should the website be:**  
+    - Fully self-managed? *(Client updates content and handles admin tasks.)*  
+    - Developer-managed? *(Dunosis handles updates, maintenance, and optimizations.)*  
+- **Are there any must-have third-party tools?** *(CRM, email marketing, analytics?)*  
+- **Will you need multi-language support?** *(If yes, specify which languages.)*  
+
+---
+
+### 🛠️ Technical Preferences  
+
+Understanding the client’s **technical requirements** ensures a smooth development and handover process.  
+
+- **Where do you currently host your website?** *(Or do you need hosting recommendations?)*  
+- **Do you want a:**  
+    - **Custom-built solution** *(Django, React, Vue.js, Flask?)*  
+    - **CMS like WordPress, Webflow, or Squarespace?*  
+- **What is your comfort level with updating and maintaining the site yourself?**  
+- **Will multiple people in your team need different levels of website access?**  
+
+---
