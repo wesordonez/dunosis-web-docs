@@ -25,38 +25,125 @@ The first step in onboarding is to schedule an **introductory call or meeting** 
 - Establish the project scope (e.g., new website vs. redesign)  
 - Gather any technical preferences (platform, hosting, integrations)  
 
-### 📝 Client Intake Form  
-After the meeting, the client should complete an **intake form** to provide:  
-- Business name, industry, and website goals  
-- Preferred domain name (if not purchased)  
-- Reference websites for inspiration  
-- Required features (e.g., booking system, e-commerce, blog)  
-
-📌 **Client Intake Form Link:** [Insert Link Here]  
+📌 **Client On-Boarding Questions:** [Client Onboarding Questions](https://example.com/onboarding-questions)  
 
 ---
 
 ## 2️⃣ Proposal, Contract & Initial Payment  
 
-### 📄 Preparing a Project Proposal  
-- Outline **project scope**, features, and pricing  
-- Include estimated **timeline and deliverables**  
-- Specify **maintenance & support options**  
 
-Once agreed upon, proceed with:  
-
-✅ **Client Agreement / Contract**  
-- Ensure clear terms on **scope, timeline, and payment structure**  
-- Specify revision limits and ongoing support terms  
-
-✅ **Initial Payment**  
-- Send the **first invoice** (usually 50% upfront unless otherwise agreed)  
-- Preferred payment methods:  
-  - **Stripe** → Secure credit card processing  
-  - **Bank Transfer** → [Insert Payment Details]  
-  - **Zelle** → [Insert Contact Info]  
+Once the client intake and discovery process is complete, the next step is formalizing the project agreement. This section ensures the project scope, pricing, and payment terms are clearly defined before work begins.  
 
 ---
+
+## 📄 Preparing the Project Proposal  
+
+A well-defined proposal provides clarity on **what will be delivered, when, and at what cost**.  
+
+### ✅ Steps to Prepare a Proposal  
+- **Define project scope and features**  
+    - Outline key website functions, integrations, and any additional services.  
+- **Use definitions to select or create a pricing plan**  
+    - Choose between pre-set pricing tiers or custom quotes.  
+- **Define estimated timeline and milestones**  
+    - Example:  
+        - Wireframes & UI Prototype design: **1-2 weeks**  
+        - Development & backend setup: **2-4 weeks**  
+        - Testing & revisions: **1-2 weeks**  
+- **(Optional) Share examples of past work**  
+    - Provide portfolio links or a **generalized demo** if applicable.  
+
+📌 **Proposal Template Available Below**  - (Google Drive)
+
+---
+
+## 📜 Client Agreement & Contract  
+
+Before starting work, ensure the client signs a formal **contract** to prevent misunderstandings and protect both parties.  
+
+### ✅ Key Terms to Include:  
+- **Scope of work** → Define project expectations, deliverables, and exclusions.  
+- **Timeline & structure** → Estimated deadlines and milestone approvals.  
+- **Payment structure** → Terms for deposits, final payment, and late fees.  
+- **Revision policy** → Specify how many revision rounds are included.  
+- **Ongoing support** → Define what is covered post-launch (e.g., maintenance, bug fixes).  
+- **Legal considerations** → Copyright, intellectual property, liability disclaimers.  
+- **E-Signature method** → Use **OpenSign** or another secure e-signature platform.  
+
+📌 **Contract Template Available Below**  
+
+??? info "Contract Template"
+    # Website Development Agreement  
+
+    This Website Development Agreement (the "Agreement") is entered into as of **[Date]**, by and between:  
+
+    **Client Name:** [Client Name]  
+    **Client Business Name:** [Business Name]  
+    **Developer:** Dunosis  
+
+    ## 1. Scope of Work  
+    Dunosis agrees to develop a website for the Client as described in the **Project Proposal**.  
+
+    ### 🔹 Deliverables  
+    - Fully functional website deployed on [hosting provider]  
+    - Admin dashboard access  
+    - [Other agreed deliverables]  
+
+    ## 2. Payment Terms  
+    The Client agrees to pay the Developer the total project fee of **$[Total Amount]** under the following payment schedule:  
+    - **50% deposit ($[Amount])** due upon contract signing.  
+    - **50% final payment ($[Amount])** due before final deployment.  
+
+    Failure to complete payment may result in project suspension or termination.  
+
+    ## 3. Revisions & Feedback  
+    - The Client is entitled to **[Number] revision rounds**.  
+    - Additional revisions beyond this scope will be billed at **$[Hourly Rate]**.  
+
+    ## 4. Intellectual Property & Ownership  
+    Upon full payment, the Client will own the rights to the website content and design. The Developer retains the right to showcase the project in their portfolio.  
+
+    ## 5. Maintenance & Support (Optional)  
+    After project completion, ongoing support and maintenance can be provided at **$[Monthly Fee]** or per service request.  
+
+    ## 6. Liability & Indemnification  
+    The Developer is not responsible for **post-launch website failures** due to third-party changes, security breaches, or content modifications made by the Client.  
+
+    ## 7. Agreement Termination  
+    This agreement may be terminated if:  
+    - The Client fails to make payment within **[X] days** of the due date.  
+    - Either party provides written notice due to unforeseen circumstances.  
+
+    ## 8. Acceptance & Signatures  
+    By signing below, both parties agree to the terms of this Agreement.  
+
+    **Client Name:** [Client Signature]  
+    **Date:** [Date]  
+
+    **Dunosis Representative:** [Your Signature]  
+    **Date:** [Date]  
+
+---
+
+
+## 💳 Initial Payment  
+
+Once the contract is signed, send the first invoice to secure the project start.  
+
+### ✅ Payment Process:  
+1. **Send the first invoice**  
+    - Typically **50% upfront** before development begins.  
+2. **Accepted Payment Methods:**  
+    - **Stripe** → Secure online credit/debit card payments.  
+    - **Zelle** → Direct bank transfer.  
+    - **Evalon Payment Terminal** → In-person POS terminal transactions.  
+    - **Cash** → Only for local clients (must provide receipt).  
+
+---
+
+!!! danger "NOTE"
+    These steps are CRITICAL. Absolutely ZERO work will be done until a contract is signed and the 50% upfront payment is received. 
+
 
 ## 3️⃣ Collecting Assets & Project Requirements  
 
