@@ -15,7 +15,7 @@ theme:
     text: Montserrat
     code: Roboto Mono
   logo: /assets/dunosis-logo.png
-  favicon: /assets/favoicon.ico
+  favicon: /assets/favicon.ico
   palette:
     # Dark Mode
     - scheme: slate
