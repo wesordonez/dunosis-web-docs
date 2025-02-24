@@ -36,11 +36,11 @@ Once the client intake and discovery process is complete, the next step is forma
 
 ---
 
-## 📄 Preparing the Project Proposal  
+### 📄 Preparing the Project Proposal  
 
 A well-defined proposal provides clarity on **what will be delivered, when, and at what cost**.  
 
-### ✅ Steps to Prepare a Proposal  
+#### ✅ Steps to Prepare a Proposal  
 - **Define project scope and features**  
     - Outline key website functions, integrations, and any additional services.  
 - **Use definitions to select or create a pricing plan**  
@@ -57,11 +57,11 @@ A well-defined proposal provides clarity on **what will be delivered, when, and 
 
 ---
 
-## 📜 Client Agreement & Contract  
+### 📜 Client Agreement & Contract  
 
 Before starting work, ensure the client signs a formal **contract** to prevent misunderstandings and protect both parties.  
 
-### ✅ Key Terms to Include:  
+#### ✅ Key Terms to Include:  
 - **Scope of work** → Define project expectations, deliverables, and exclusions.  
 - **Timeline & structure** → Estimated deadlines and milestone approvals.  
 - **Payment structure** → Terms for deposits, final payment, and late fees.  
@@ -126,11 +126,11 @@ Before starting work, ensure the client signs a formal **contract** to prevent m
 ---
 
 
-## 💳 Initial Payment  
+### 💳 Initial Payment  
 
 Once the contract is signed, send the first invoice to secure the project start.  
 
-### ✅ Payment Process:  
+#### ✅ Payment Process:  
 1. **Send the first invoice**  
     - Typically **50% upfront** before development begins.  
 2. **Accepted Payment Methods:**  
