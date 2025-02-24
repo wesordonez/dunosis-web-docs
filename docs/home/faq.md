@@ -1,6 +1,6 @@
 # Frequently Asked Questions (FAQ)
 
-Welcome to the **Dunosis FAQ**! Below you’ll find answers to some of the most common questions about our services, processes, and tools. If you don’t find what you’re looking for, feel free to [contact us](/home/about/#contact-us).
+Welcome to the **Dunosis FAQ**! Below you’ll find answers to some of the most common questions about our services, processes, and tools. If you don’t find what you’re looking for, feel free to [contact us].
 
 ---
 

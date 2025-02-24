@@ -9,8 +9,8 @@ Welcome to the **Code** section of the Dunosis Documentation! This section is yo
 ### 1. Overview
 Overview of the Dunosis Code Documentation, including:
 
-- **[Style Guide](snippets/components.md)**: Modular building blocks for your projects.
-- **[Lessons Learned](snippets/integrations.md)**: Snippets for third-party services and APIs.
+- **[Style Guide]**: Modular building blocks for your projects.
+- **[Lessons Learned]**: Snippets for third-party services and APIs.
 
 ---
 
