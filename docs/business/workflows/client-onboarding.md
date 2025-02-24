@@ -125,7 +125,6 @@ Before starting work, ensure the client signs a formal **contract** to prevent m
 
 ---
 
-
 ### 💳 Initial Payment  
 
 Once the contract is signed, send the first invoice to secure the project start.  
@@ -139,34 +138,70 @@ Once the contract is signed, send the first invoice to secure the project start.
     - **Evalon Payment Terminal** → In-person POS terminal transactions.  
     - **Cash** → Only for local clients (must provide receipt).  
 
----
 
 !!! danger "NOTE"
     These steps are CRITICAL. Absolutely ZERO work will be done until a contract is signed and the 50% upfront payment is received. 
 
+---
+
 
 ## 3️⃣ Collecting Assets & Project Requirements  
 
-To begin development, gather all required content and assets from the client.  
+Before development begins, all required **branding materials, website content, and technical details** must be gathered to ensure a smooth workflow.  
 
-### 🖼️ Branding & Design Materials  
-✅ **Logo files** (SVG, PNG, or AI format)  
-✅ **Brand colors and typography** (Style guide, if available)  
-✅ **Images and videos** (Product images, staff photos, stock preferences)  
+Start by creating a project folder on Google Drive for sharing and archiving, as well as locally for development ease of access. Use this general folder structure as a guide:
 
-### ✍️ Website Content  
-✅ **Page structure and sitemap** (Home, About, Services, Contact, etc.)  
-✅ **Text content** (Mission statement, product descriptions, FAQs)  
-✅ **Blog articles** (If applicable)  
-
-📌 **Shared Folder for Asset Upload:** [Insert Google Drive Link]  
-
-### 🛠️ Technical Details  
-✅ **Domain registrar and hosting credentials** (if the client already owns a domain)  
-✅ **Existing website logins** (for redesign projects)  
-✅ **Third-party integrations** (CRMs, email marketing, analytics, etc.)  
+```plaintext
+📂 [Project_Name]
+├── 📁 Archive
+├── 📁 Assets
+│   ├── 📁 Branding
+│   ├── 📁 Client Inspiration
+│   ├── 📁 Images
+├── 📁 Codebase
+├── 📁 Contracts
+├── 📁 Design Files
+│   ├── 📁 Fonts
+│   ├── 📁 Assets
+│   ├── 📁 Designs
+```
 
 ---
+
+### 🎨 Branding & Design Materials  
+
+These assets help maintain **brand consistency** across the website.  
+
+- **Logo files** *(SVG, PNG, AI, or EPS formats preferred)*  
+- **Brand colors and typography** *(Hex codes, font files, or brand guidelines)*  
+- **Images and videos** *(Product images, team photos, promotional content)*  
+- **References & inspiration** *(Example websites, mood boards, or brand inspirations)*  
+
+---
+
+### ✍️ Website Content  
+
+The core content needed for the website, structured for user experience and SEO.  
+
+- **Page structure & sitemap** *(Homepage, About, Services, Blog, Contact, etc.)*  
+- **Text/Copy** *(Mission statement, service descriptions, FAQs, etc.)*  
+- **Blog articles** *(Pre-written content, article topics, or placeholders)*  
+- **Pricing tables** *(Product/service pricing details, comparison tables)*  
+- **About bio/info** *(Company history, founder details, team bios)*  
+- **Contact information** *(Business phone, email, physical address, social links)*  
+
+---
+
+### 🛠️ Technical Details  
+
+Critical setup details to ensure a smooth **development, deployment, and integration** process.  
+
+- **Domain registrar information** *(Only for domain transfers or DNS changes)*  
+- **Third-party integrations** *(CRM, email marketing, payment gateways, social media links, etc.)*  
+- **Existing software or tools** *(Booking systems, chat widgets, analytics tools, automation platforms, etc.)*  
+
+---
+
 
 ## 4️⃣ Setting Up Project Management & Communication  
 
