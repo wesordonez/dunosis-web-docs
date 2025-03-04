@@ -205,15 +205,30 @@ Critical setup details to ensure a smooth **development, deployment, and integra
 
 ## 4️⃣ Setting Up Project Management & Communication  
 
-### 📂 Project Management System  
-To keep the project organized, create a **dedicated workspace** in:  
-- **ClickUp / Trello / Asana** → Task tracking and milestone setting  
-- **Google Drive** → File storage for shared assets  
+### 📂 Setting Up a New Project in ClickUp  
+
+Using **ClickUp** as the project management system helps keep tasks, deadlines, and deliverables organized.  
+
+#### ✅ Steps to Set Up a New Web Development Project  
+
+1. **Create a New List**  
+    - Navigate to the **Web Dev Folder** in ClickUp.  
+    - Create a **new list** for the client/project.  
+
+2. **Use the Web Dev Project Template**  
+    - Apply the **WEB DEV PROJECT TEMPLATE** to maintain consistency.  
+    - Ensure task categories (e.g., Design, Development, Testing) are set up correctly.  
+
+3. **Complete Project Details**  
+    - Add the **project description** based on the proposal.  
+    - Assign **due dates** based on the agreed timeline in the quote/contract.  
+    - Assign team members to tasks as needed.  
+
+---
 
 ### 💬 Communication & Feedback  
-✅ **Preferred communication method:** Email, Slack, or WhatsApp?  
-✅ **Meeting schedule:** Weekly, biweekly, or milestone-based?  
-✅ **Client feedback process:** Structured feedback rounds (e.g., 2 revision cycles per phase)  
+✅ **Preferred communication method:** Email, SMS, Google Meets, FaceTime, or WhatsApp?  
+✅ **Meeting schedule:** Ideally, milestone based but can be pre-defined cadence (monthly or weekly)  
 
 ---
 
