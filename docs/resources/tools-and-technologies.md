@@ -93,7 +93,7 @@ Welcome to the **Tools and Technologies** section! This page highlights the key 
 
 ## Learning and Support
 
-We recommend exploring the provided links to deepen your understanding of these tools and technologies. If you need more guidance, check out our [FAQ](/home/faq) or [Glossary](/resources/glossary).
+We recommend exploring the provided links to deepen your understanding of these tools and technologies. If you need more guidance, check out our [FAQ] or [Glossary].
 
 ---
 
