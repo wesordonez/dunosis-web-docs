@@ -232,56 +232,12 @@ Using **ClickUp** as the project management system helps keep tasks, deadlines, 
 
 ---
 
-## 5️⃣ Defining Deliverables & Timeline  
 
-### 📅 Project Roadmap  
-A **clear timeline** ensures project expectations are met.  
-
-| Phase | Task | Estimated Timeframe |
-|-------|------|---------------------|
-| **1. Discovery & Planning** | Finalizing scope, collecting assets | 1-2 weeks |
-| **2. Wireframing & UI Design** | Homepage + key pages mockups | 1-2 weeks |
-| **3. Development** | Coding & backend setup | 2-4 weeks |
-| **4. Client Review** | Revisions & testing | 1-2 weeks |
-| **5. Deployment** | Launch & final QA | 1 week |
-
-📌 **Timeline may vary based on project complexity.**  
-
-### ✅ Key Deliverables  
-- Wireframes & design mockups  
-- Fully developed website  
-- SEO & performance optimization  
-- Client training session  
-
----
-
-## 6️⃣ Development Kickoff & First Check-In  
+## 5️⃣ Development Kickoff & First Check-In  
 
 Once everything is collected and the project is set up:  
 
-✅ **Send a Project Kickoff Email**  
+✅ **Send a Project Kickoff Email (Optional)**  
 ✅ **Confirm first development milestone**  
 ✅ **Set up hosting environment & dev URL**  
-✅ **Schedule the first check-in call**  
-
-📌 **Kickoff Email Template:**  
-
-```plaintext
-Subject: Web Development Kickoff - [Project Name]  
-
-Hi [Client's Name],  
-
-We’re excited to officially kick off your web development project! 🎉  
-
-Here’s what’s happening next:  
-- We’ve set up your **project space** for tracking progress.  
-- We’ll begin the **design and wireframing phase** this week.  
-- Expect the **first review round** by [Date].  
-
-If you have any questions, feel free to reach out anytime. Looking forward to bringing your vision to life!  
-
-Best,  
-[Your Name]  
-Dunosis Team  
-📧 support@dunosis.com  
-📞 [Your Phone Number]  
+✅ **Schedule the first check-in call with Dev Team**  
