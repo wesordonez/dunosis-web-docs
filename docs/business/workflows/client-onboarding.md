@@ -215,9 +215,14 @@ Using **ClickUp** as the project management system helps keep tasks, deadlines, 
     - Navigate to the **Web Dev Folder** in ClickUp.  
     - Create a **new list** for the client/project.  
 
+    ![Project Management](./assets/project-management-1.png)
+
 2. **Use the Web Dev Project Template**  
     - Apply the **WEB DEV PROJECT TEMPLATE** to maintain consistency.  
     - Ensure task categories (e.g., Design, Development, Testing) are set up correctly.  
+
+    ![Project Management](./assets/project-management-2.png)
+
 
 3. **Complete Project Details**  
     - Add the **project description** based on the proposal.  
