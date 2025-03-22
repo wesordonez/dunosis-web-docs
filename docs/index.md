@@ -18,10 +18,12 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 - **DevOps**:
   - [Deployment](code/devops/deployment.md)
   - [Monitoring](code/devops/monitoring.md)
+  - [New Project](code/devops/new-project-repo.md)
 - **Backend**:
   - [SEO Best Practices](code/backend/seo.md)
 - **Frontend**:
   - [UI/UX Principles](code/frontend/ui-ux.md)
+  - [Custom Fonts](code/frontend/custom-fonts.md)
 
 ### 3. Client Instructions
 - [Overview](client-instructions/client-instructions-overview.md)
