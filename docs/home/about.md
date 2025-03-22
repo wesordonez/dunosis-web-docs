@@ -23,23 +23,21 @@ We are based in **Santa Cruz, Bolivia** and **Chicago, Illinois**.
 
 At **Dunosis**, we blend top Bolivian talent with technical expertise to deliver websites and data solutions that drive real results. Our minority-owned business offers competitive pricing by leveraging top-skilled Bolivian professionals, ensuring high-quality work at affordable rates. By choosing us, you not only get reliable digital solutions but also support a mission of empowering young Bolivians through economic opportunities and professional growth.
 
-## Contact Us
+## Contact Info
 
-We’d love to hear from you! Reach out to us using the following contact details:
+Dunosis contact details:
 
 - 📧 **Email**: [info@dunosis.com](mailto:info@dunosis.com)
 - 🌐 **Website**: [www.dunosis.com](https://www.dunosis.com)
 - 📍 **Location**: Chicago, IL and Santa Cruz, BO
+
+### Dunosis USA
+- 📧 **Email**: [wesleyo@dunosis.com](mailto:wesleyo@dunosis.com)
 - 📞 **Phone**: +1 (773) 202-2074
 
-For project inquiries, technical support, or collaborations, feel free to drop us a message!
+### Dunosis Bolivia
+- 📧 **Email**: [tayozabala@dunosis.com](mailto:tayozabala@dunosis.com)
+- 📞 **Phone**: +591 77047475
 
----
-
-## Let’s Build Something Amazing Together
-
-At Dunosis, we believe in the power of collaboration. Whether you're a small business, a non-profit organization, or an entrepreneur with a vision, we're here to help you achieve your goals.
-
-Ready to take the next step? Explore our documentation or contact us directly to discuss your project.
 
 ---
