@@ -92,7 +92,9 @@ nav:
     - Branding Guidelines: design/branding-guidelines.md
   - Business:
     - Overview: business/business-overview.md
-    - Marketing: business/marketing.md
+    - Marketing:
+      - Cloud Storage Onboarding: business/marketing/cloud-storage-onboarding.md
+      - Cloud Storage Usage: business/marketing/cloud-storage-usage.md
     - Sales: business/sales.md
     - Workflows:
       - Client On-Boarding: business/workflows/client-onboarding.md

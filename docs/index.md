@@ -45,7 +45,10 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 
 ### 5. Business
 - [Overview](business/business-overview.md)
-- [Marketing Strategies](business/marketing.md)
+- Marketing
+    - [Storage Onboarding](business/marketing/cloud-storage-onboarding.md)
+    - [Storage Usage](business/marketing/cloud-storage-usage.md)
+
 - [Sales Playbook](business/sales.md)
 
 ### 6. Additional Resources
