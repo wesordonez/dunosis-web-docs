@@ -146,7 +146,7 @@ Así es como movemos los archivos a través del sistema:
    Trabajo en fotos/videos en la computadora para mayor velocidad (por ejemplo, selección, edición, exportación).
 
 2. **📤 Google Drive (Colaboración)**  
-   Subir las *ediciones finales* a Google Drive para revisión, colaboración o entrega al cliente.
+Subir las *ediciones finales* y las *bibliotecas seleccionadas* a Google Drive para revisión, colaboración o entrega al cliente.
 
 3. **📦 Wasabi (Archivo a Largo Plazo)**  
    Subir tanto los archivos *RAW* como las *Ediciones Finales* a Wasabi para copia de seguridad permanente.
@@ -157,7 +157,15 @@ Así es como movemos los archivos a través del sistema:
 
 ```
 marketing/
-├── nombre-del-cliente/
+├── nombre-del-cliente-1/
+│   ├── nombre-del-proyecto-AAAAMMDD/
+│   │   ├── raw/
+│   │   └── final/
+│   ├── nombre-del-proyecto-2-AAAAMMDD/
+│   │   ├── raw/
+│   │   └── final/
+│   └── ...
+├── nombre-del-cliente-2/
 │   ├── nombre-del-proyecto-AAAAMMDD/
 │   │   ├── raw/
 │   │   └── final/
@@ -166,7 +174,9 @@ marketing/
 
 ### 🧭 Reglas:
 - Usa el **nombre completo del cliente o empresa** para la carpeta principal
-- Para proyectos: `nombre-del-proyecto-AAAAMMDD` (ej: `campana-verano-20250315`)
+    - ej: `dunosis` o `metaltela`
+- Para proyectos usa este patrón: `nombre-del-proyecto-AAAAMMDD`
+    - ej: `campana-verano-20250315`
 - Separa el contenido en **raw** y **final**
 - Evita subir archivos temporales o de trabajo
 
@@ -174,14 +184,20 @@ marketing/
 
 ## 🕓 Cronograma: Cuándo Subir Archivos
 
+## 🕓 Con Nuevos Proyectos
+- Subir archivos RAW al mismo tiempo al mismo tiempo que estas transfiriendo archivos al almacenimieto local
+
 ### ✅ **Revisión Semanal**
 - Todos los viernes, revisar proyectos completados o ediciones finales
-- Subir archivos RAW y exportaciones finales a la carpeta correspondiente
+- Confirmar que archivos RAW y exportaciones finales fueron subidos a la carpeta correspondiente
 
 ### 🧹 **Al Finalizar un Proyecto**
 - Dentro de los 2 días de terminar un proyecto:
-    - Subir archivos RAW desde almacenamiento local
+    - Confirmar que archivos RAW se han subido desde almacenamiento local
     - Subir ediciones finales desde Google Drive
+- Despues de 1 mes de terminar un proyecto:
+    - Confrimar que archivos RAW y ediciones finales estan en la nube
+    - Borrar archivos RAW y ediciones finales de Google Drive
 
 ### 🔁 **Mantenimiento Mensual**
 - Verificar que nuevas carpetas sigan las convenciones de nombres
@@ -199,7 +215,6 @@ marketing/
 - 🔐 **Guarda tu Access Key y Secret Key en privado**
     - No compartir por Slack o email
     - Usar un gestor de contraseñas o pedir al admin que te lo envíe de forma segura
-- 🛠️ **Usa bookmarks en Cyberduck** para acceder rápidamente a tu carpeta
 - 🧪 **Verifica antes de borrar**: Asegúrate de que el archivo subió correctamente
 
 ---
@@ -212,7 +227,7 @@ Si tienes dudas sobre:
 - Convenciones de nombres
 - Permisos o claves
 
-Escribe a: **cloud@dunosis.com** o contacta a tu administrador del equipo.
+Escribe a: **wesleyo@dunosis.com** o **+1 (601) 308-0127**
 
 ---
 
