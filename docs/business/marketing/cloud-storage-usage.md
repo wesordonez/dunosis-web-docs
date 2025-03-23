@@ -34,7 +34,7 @@ Here’s how we move files through the system:
    Work on photos/videos locally for speed (e.g., culling, editing, exporting).
 
 2. **📤 Google Drive (Collaboration)**  
-   Upload *final edits* to Google Drive for review, collaboration, or client access.
+   Upload *final edits* and *culled libraries* to Google Drive for review, collaboration, or client access.
 
 3. **📦 Wasabi Archive (Long-Term Storage)**  
    Upload both *RAW* files and *Final Edits* to Wasabi for permanent backup.
@@ -49,6 +49,9 @@ marketing/
 │   ├── project-name-YYYYMMDD/
 │   │   ├── raw/
 │   │   └── final/
+│   ├── project-name-2-YYYYMMDD/
+│   │   ├── raw/
+│   │   └── final/
 │   └── ...
 ├── client-name-2/
 │   ├── project-name-YYYYMMDD/
@@ -59,7 +62,9 @@ marketing/
 
 ### 🧭 Guidelines:
 - Use **client's full name or business name** for the folder name
-- For projects: `project-name-YYYYMMDD` (e.g., `summer-shoot-20250315`)
+    - e.g., `dunosis` or `metaltela`
+- For projects use the following nameing convention: `project-name-YYYYMMDD` 
+    - e.g., `summer-shoot-20250315`
 - Keep **raw** and **final** content separated
 - Avoid storing working/temporary files
 
@@ -67,14 +72,20 @@ marketing/
 
 ## 🕓 Timeline: When to Upload Files
 
+### 🕓 **On New Client Projects**
+- Upload all RAW production files at the same time as transfering to local machine
+
 ### ✅ **Weekly Review**
 - Every Friday, review any completed projects or finalized edits
-- Upload both RAW files and final exports to the appropriate archive folder
+- Confirm both RAW files and final exports are uploaded to the appropriate archive folder
 
 ### 🧹 **Post-Project Wrap-Up**
 - Within 2 days of completing a project:
-  - Upload RAW files from local storage
-  - Upload final versions from Google Drive
+    - Confirm RAW files were uploaded from local storage
+    - Upload final versions from Google Drive
+- After 1 month of completing a project:
+    - Confirm RAW and finalized files are backed up in storage and ONLY then,
+    - Remove RAW and finalized files from Google Drive
 
 ### 🔁 **Monthly Maintenance**
 - Check that new client/project folders follow naming conventions
@@ -90,9 +101,8 @@ marketing/
 - 🧼 **Don't clutter**: No exports, temp files, or junk files
 - 🧠 **Be intentional**: Archive only finalized work and valuable raw content
 - 🔐 **Keep your Access Key and Secret Key private**
-  - Never share it in Slack or email
-  - Use a password manager or ask the admin for secure delivery
-- 🛠️ **Use bookmarks in Cyberduck** to quickly access your assigned folders
+    - Never share it in Slack or email
+    - Use a password manager or ask the admin for secure delivery
 - 🧪 **Test before you delete**: Make sure your upload completed successfully
 
 ---
@@ -100,12 +110,13 @@ marketing/
 ## 📬 Contact & Support
 
 If you have questions about:
+
 - Folder access
 - Uploading issues
 - Naming conventions
 - Permissions or keys
 
-Reach out to: **cloud@dunosis.com** or your team admin.
+Reach out to: **wesleyo@dunosis.com** or **+1 (601) 308-0127**
 
 ---
 
