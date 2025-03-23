@@ -78,7 +78,7 @@ Your team admin will provide you with:
 
 ## Español
 
-# 🌩️ Guía de Incorporación - Almacenamiento en la Nube Wasabi de Dunosis
+## 🌩️ Guía de Incorporación - Almacenamiento en la Nube Wasabi de Dunosis
 
 Esta guía te mostrará cómo acceder y usar nuestro sistema de almacenamiento en la nube usando **Wasabi** y la herramienta sencilla **Cyberduck**.
 
