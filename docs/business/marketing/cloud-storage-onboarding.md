@@ -75,3 +75,81 @@ Your team admin will provide you with:
 - 🔐 Never share your secret access key
 
 ---
+
+# 🌩️ Guía de Incorporación - Almacenamiento en la Nube Wasabi de Dunosis
+
+Esta guía te mostrará cómo acceder y usar nuestro sistema de almacenamiento en la nube usando **Wasabi** y la herramienta sencilla **Cyberduck**.
+
+> ✅ No necesitas crear una cuenta de Wasabi. El administrador ya ha creado tus credenciales. Solo sigue los pasos de abajo.
+
+---
+
+## 📂 ¿Qué es Wasabi?
+
+Wasabi es una plataforma de almacenamiento en la nube segura y asequible. Piensa en ella como una bóveda para nuestros archivos multimedia (fotos, videos, diseños, etc).
+
+- 🔐 Segura y cifrada  
+- 🏃‍♀️ Rápida para subir y descargar  
+- 📦 Usada para archivar contenido final y archivos RAW
+
+---
+
+## 🦆 ¿Qué es Cyberduck?
+
+Cyberduck es una aplicación gratuita que te permite subir y descargar archivos a la nube de forma sencilla. Es como Google Drive, pero directamente conectado a nuestro archivo en la nube.
+
+🔗 [Descargar Cyberduck aquí](https://cyberduck.io/)
+
+---
+
+## 🧰 Lo que Necesitarás
+
+El administrador te proporcionará:
+
+- ✅ Tu **Access Key ID**
+- ✅ Tu **Secret Access Key** (¡Guárdala en privado!)
+- ✅ El **nombre del bucket** (por ejemplo, `dunosis-archive`)
+- ✅ La **URL del endpoint** (por ejemplo, `s3.us-east-1.wasabisys.com`)
+
+---
+
+## 🧑‍💻 Paso a Paso: Configurar Cyberduck
+
+1. Abre **Cyberduck** y haz clic en `Open Connection` (parte superior izquierda).
+
+    ![Cyberduck](./assets/du-docs-cyberduck-config.png)
+
+2. En el menú desplegable, selecciona **Amazon S3** (aunque sea Wasabi).
+3. Rellena los campos:
+   - **Server**: `s3.us-east-1.wasabisys.com` *(o el endpoint que te indiquen)*
+   - **Access Key ID**: *(proporcionado por el administrador)*
+   - **Secret Access Key**: *(proporcionado por el administrador)*
+   - Deja los demás campos en blanco por ahora
+4. Haz clic en **Connect**
+
+    ![Cyberduck](./assets/du-docs-cyberduck-config-end.png)
+
+5. Ahora deberías ver el bucket de almacenamiento. Haz doble clic para abrirlo.
+
+> ✅ Recomendado: Haz clic en la opción `Add to Keychain` para guardar las credenciales (en Mac OS)
+
+---
+
+## 📁 Subir y Descargar Archivos
+
+### Subir:
+- Simplemente **arrastra y suelta archivos** dentro de la carpeta que te asignaron.
+- Puedes crear subcarpetas (por ejemplo, `ClienteX/FinalEdits/`)
+
+### Descargar:
+- Haz clic derecho en un archivo → elige **Download**
+
+⚠️ ¡Ten cuidado de no borrar nada por accidente!
+
+---
+
+## ✅ Buenas Prácticas
+- 🔐 Nunca compartas tu Secret Access Key
+
+---
+
