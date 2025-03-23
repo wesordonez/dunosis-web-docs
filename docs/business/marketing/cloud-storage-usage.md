@@ -1,10 +1,3 @@
-# Marketing
-
-!!! warning ":construction: Under Construction :construction:"
-
-    This section is still under construction. Facts, information, and data in here may not be complete or accurate yet. 
-
-
 # 🗃️ Dunosis Media Cloud Storage - Usage Guidelines
 
 Welcome to the Dunosis Cloud Storage! 🎉 This guide outlines how we organize, store, and manage all media content for our marketing projects. Our goal is to keep everything accessible, organized, and secure as we grow our creative portfolio.
@@ -123,3 +116,106 @@ Reach out to: **wesleyo@dunosis.com** or **+1 (601) 308-0127**
 Thanks for helping keep our archive beautiful, safe, and efficient! 💾✨
 
 — Team Dunosis
+
+## 🗃️ Archivo Multimedia Dunosis - Guía de Uso
+
+¡Bienvenido al Archivo en la Nube de Dunosis! Esta guía explica cómo organizamos, almacenamos y gestionamos todo el contenido multimedia de nuestros proyectos de marketing. Nuestro objetivo es mantener todo accesible, organizado y seguro a medida que crece nuestro portafolio creativo.
+
+---
+
+## 🎯 Propósito del Archivo
+El Archivo en la Nube de Wasabi está diseñado para:
+
+- 🗂️ **Almacenar todo el contenido multimedia final y en bruto** a largo plazo
+- 🤝 **Facilitar la colaboración y recuperación de archivos**
+- 💾 **Liberar espacio** en discos locales y Google Drive
+- 🔐 **Hacer una copia de seguridad segura** de los archivos en caso de pérdida de datos
+
+Este archivo no es para edición diaria, sino para:
+
+- Entregables finalizados
+- Archivos RAW/Brutos
+- Copias de seguridad de proyectos
+
+---
+
+## 🔁 Flujo de Trabajo de Almacenamiento
+Así es como movemos los archivos a través del sistema:
+
+1. **🎞️ Edición Local**  
+   Trabajo en fotos/videos en la computadora para mayor velocidad (por ejemplo, selección, edición, exportación).
+
+2. **📤 Google Drive (Colaboración)**  
+   Subir las *ediciones finales* a Google Drive para revisión, colaboración o entrega al cliente.
+
+3. **📦 Wasabi (Archivo a Largo Plazo)**  
+   Subir tanto los archivos *RAW* como las *Ediciones Finales* a Wasabi para copia de seguridad permanente.
+
+---
+
+## 📁 Estructura de Carpetas y Convenciones de Nombres
+
+```
+marketing/
+├── nombre-del-cliente/
+│   ├── nombre-del-proyecto-AAAAMMDD/
+│   │   ├── raw/
+│   │   └── final/
+│   └── ...
+```
+
+### 🧭 Reglas:
+- Usa el **nombre completo del cliente o empresa** para la carpeta principal
+- Para proyectos: `nombre-del-proyecto-AAAAMMDD` (ej: `campana-verano-20250315`)
+- Separa el contenido en **raw** y **final**
+- Evita subir archivos temporales o de trabajo
+
+---
+
+## 🕓 Cronograma: Cuándo Subir Archivos
+
+### ✅ **Revisión Semanal**
+- Todos los viernes, revisar proyectos completados o ediciones finales
+- Subir archivos RAW y exportaciones finales a la carpeta correspondiente
+
+### 🧹 **Al Finalizar un Proyecto**
+- Dentro de los 2 días de terminar un proyecto:
+    - Subir archivos RAW desde almacenamiento local
+    - Subir ediciones finales desde Google Drive
+
+### 🔁 **Mantenimiento Mensual**
+- Verificar que nuevas carpetas sigan las convenciones de nombres
+- Reorganizar cualquier archivo fuera de lugar
+- Confirmar que archivos importantes estén archivados correctamente
+
+---
+
+## 💡 Consejos y Buenas Prácticas
+
+- 📁 **Mantén el orden**: Usa siempre la estructura de carpetas — ¡nada suelto!
+- 🏷️ **Consistencia**: Las carpetas de proyectos deben incluir fecha
+- 🧼 **No llenar de basura**: Nada de archivos temporales o copias locales
+- 🧠 **Sube solo lo importante**: Ediciones finales y archivos valiosos
+- 🔐 **Guarda tu Access Key y Secret Key en privado**
+    - No compartir por Slack o email
+    - Usar un gestor de contraseñas o pedir al admin que te lo envíe de forma segura
+- 🛠️ **Usa bookmarks en Cyberduck** para acceder rápidamente a tu carpeta
+- 🧪 **Verifica antes de borrar**: Asegúrate de que el archivo subió correctamente
+
+---
+
+## 📬 Contacto y Soporte
+
+Si tienes dudas sobre:
+- Acceso a carpetas
+- Problemas para subir archivos
+- Convenciones de nombres
+- Permisos o claves
+
+Escribe a: **cloud@dunosis.com** o contacta a tu administrador del equipo.
+
+---
+
+¡Gracias por ayudar a mantener nuestro archivo seguro, limpio y funcional! 💾✨
+
+— Equipo Dunosis
