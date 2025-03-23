@@ -1,10 +1,3 @@
-# Marketing
-
-!!! warning ":construction: Under Construction :construction:"
-
-    This section is still under construction. Facts, information, and data in here may not be complete or accurate yet. 
-
-
 # 🌩️ Dunosis Wasabi Cloud Storage - Team Onboarding Guide
 
 This guide will walk you through accessing and configuring our cloud storage system hosted on **Wasabi**, using a simple tool called **Cyberduck**.
@@ -46,24 +39,30 @@ Your team admin will provide you with:
 ## 🧑‍💻 Step-by-Step: Set Up Cyberduck
 
 1. Open **Cyberduck** and click `Open Connection` (top left).
+
+    ![Cyberduck](./assets/du-docs-cyberduck-config.png)
+
 2. From the dropdown, select **Amazon S3** (yes, even for Wasabi).
 3. Fill in the fields:
-   - **Server**: `s3.us-east-1.wasabisys.com` *(or the endpoint given to you)*
-   - **Access Key ID**: *(provided by admin)*
-   - **Secret Access Key**: *(provided by admin — keep private!)*
-   - Leave other fields blank for now
+    - **Server**: `s3.us-east-1.wasabisys.com` *(or the endpoint given to you)*
+    - **Access Key ID**: *(provided by admin)*
+    - **Secret Access Key**: *(provided by admin — keep private!)*
+    - Leave other fields blank for now
 4. Click **Connect**
+
+    ![Cyberduck](./assets/du-docs-cyberduck-config-end.png)
+
 5. You’ll now see our storage bucket(s). Double-click to open.
 
-✅ Optionally: Bookmark the connection for quick access later (under `Bookmarks → New Bookmark`)
+> ✅ Recommended: Click the `Add to Keychain` option to save the credentials (on Mac OS)
 
 ---
 
 ## 📁 Uploading & Downloading Files
 
 ### Uploading:
-- Simply **drag & drop files** into the folder you’ve been assigned.
-- Create subfolders as needed (e.g., `ClientX/FinalEdits/`)
+- Simply **drag & drop files** into the appropriate client folders.
+- Create subfolders as needed by right-clicking.
 
 ### Downloading:
 - Right-click any file → choose **Download**
@@ -72,22 +71,7 @@ Your team admin will provide you with:
 
 ---
 
-## ✅ Best Practices
-
-- 📦 Only upload finalized or archived content — active work stays in Google Drive
-- 🗂️ Follow folder naming conventions (e.g., `ClientName_Project/Raw/`)
-- 🧼 Keep things tidy — it helps everyone find what they need
+## Final Notes
 - 🔐 Never share your secret access key
 
 ---
-
-## 💬 Need Help?
-
-If you have issues logging in or questions about your folders, reach out to your Dunosis admin.
-
----
-
-Thanks for keeping our cloud archive awesome! ☁️💪
-
-Happy uploading! ✨  
-— Team Dunosis
