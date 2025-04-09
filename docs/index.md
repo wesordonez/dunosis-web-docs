@@ -16,9 +16,10 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 - [Style Guide](code/style-guide.md)
 - [Lessons Learned](code/lessons-learned.md)
 - **DevOps**:
-  - [Deployment](code/devops/deployment.md)
+  - [Digital Ocean Deployment](code/devops/deployment.md)
   - [Monitoring](code/devops/monitoring.md)
   - [New Project](code/devops/new-project-repo.md)
+  - [Hetzner Server](devops/monitoring.md)
 - **Backend**:
   - [SEO Best Practices](code/backend/seo.md)
 - **Frontend**:

@@ -18,7 +18,8 @@ Overview of the Dunosis Code Documentation, including:
 Learn how we deploy, monitor, and scale projects with step-by-step guides:
 
 - **[New Project Repo](devops/new-project-repo.md)**: How to create a new django web dev project repo.
-- **[Deployment](devops/deployment.md)**: How to deploy Dunosis projects to production environments.
+- **[Digital Ocean Deployment](devops/deployment.md)**: How to deploy Dunosis projects to production environments.
+- **[Hetzner Server CRM Deployment](devops/hetzner.md)**: How to deploy an instance of Twenty CRM on a Hetzner Server.
 - **[Monitoring](devops/monitoring.md)**: Keeping track of performance and identifying issues.
 
 ---

@@ -83,6 +83,22 @@ Access the development server in a browser by navigating to `localhost:8000/`. I
 
 From here, it's a good idea to also test the connection to the database by navigating to the contact page and filling out the form with test or dummy data and confirming the data was persisted in the database. 
 
-## 10. **Optional:** Connect Repo to Sourcery AI
+## 10. Install and Run TailwindCSS
+
+To install and run tailwindcss on the new project first run the following commands:
+
+```py
+npm install tailwindcss
+npm install cross-env
+npm install postcss-simple-vars
+```
+
+Then you should be able to start tailwind which will auto update and watch for changes using this command:
+
+```py
+python manage.py tailwind start
+```
+
+## **Optional:** Connect Repo to Sourcery AI
 
 In the permissions section of the repo, add the new project to Sourcery AI and activate it through the web portal for automated AI generated code reviews on Pull Requests. 
