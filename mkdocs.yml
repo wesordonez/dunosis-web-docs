@@ -66,7 +66,8 @@ nav:
     - Lessons Learned: code/lessons-learned.md
     - DevOps:
       - New Project Repo: code/devops/new-project-repo.md
-      - Deployment: code/devops/deployment.md
+      - Digital Ocean Deployment: code/devops/deployment.md
+      - Hetzner Server: code/devops/hetzner.md
       - Monitoring: code/devops/monitoring.md
     - Backend:
       - SEO: code/backend/seo.md
