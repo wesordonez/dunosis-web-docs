@@ -68,6 +68,7 @@ nav:
       - New Project Repo: code/devops/new-project-repo.md
       - Digital Ocean Deployment: code/devops/deployment.md
       - Hetzner Server: code/devops/hetzner.md
+      - Twenty CRM: code/devops/twenty-crm.md
       - Monitoring: code/devops/monitoring.md
     - Backend:
       - SEO: code/backend/seo.md

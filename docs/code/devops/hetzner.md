@@ -1,12 +1,6 @@
-# Hetzner Server and Twenty CRM Set Up
+# Hetzner Server Setup with Docker & NGINX
 
-!!! warning ":construction: Under Construction :construction:"
-
-    This section is still under construction. Facts, information, and data in here may not be complete or accurate yet. 
-
-# 🚀 Deploying Twenty CRM on a Hetzner Server with Docker & NGINX Proxy Manager
-
-This guide walks you through deploying [Twenty CRM](https://github.com/TwentyHQ/twenty-docker) on a fresh Hetzner VPS, using Docker, NGINX Proxy Manager, and a Porkbun-registered domain.
+This guide walks you through setting up a fresh Hetzner VPS with Docker, NGINX Proxy Manager, and Portainer for container management.
 
 ---
 
@@ -43,9 +37,14 @@ sudo usermod -aG docker $USER
 newgrp docker  # OR log out and back in
 ```
 
+Enable Docker to start on boot:
+```bash
+sudo systemctl enable docker
+```
+
 ---
 
-## 🧭 3. Install Docker Compose (optional if already included)
+## 🧭 3. Install Docker Compose
 
 ```bash
 sudo apt install docker-compose-plugin -y
@@ -90,121 +89,54 @@ _Default login: `admin@example.com` / `changeme`_
 
 ---
 
-## 🌐 5. Point DNS to Your Server
+## 🎯 5. Install Portainer (Optional but Recommended)
 
-On [Porkbun](https://porkbun.com):
-
-| Type | Host | Answer (IP Address) | TTL |
-|------|------|---------------------|-----|
-| A    | crm  | your.server.ip      | 300 |
-
-📝 This will resolve `crm.yourdomain.com` to your VPS.
-
----
-
-## 📁 6. Clone and Configure Twenty CRM
-
-### Clone the repo:
+### Create Docker volume for Portainer:
 ```bash
-git clone https://github.com/TwentyHQ/twenty-docker.git
-cd twenty-docker
+docker volume create portainer_data
 ```
 
-### Create a `.env` file:
+### Deploy Portainer:
 ```bash
-nano .env
+docker run -d \
+  -p 8000:8000 \
+  -p 9443:9443 \
+  --name portainer \
+  --restart=always \
+  -v /var/run/docker.sock:/var/run/docker.sock \
+  -v portainer_data:/data \
+  portainer/portainer-ce:latest
 ```
 
-Example contents:
-
-```env
-PG_DATABASE_USER=postgres
-PG_DATABASE_PASSWORD=your_password
-PG_DATABASE_HOST=db
-PG_DATABASE_PORT=5432
-
-NODE_PORT=3000
-SERVER_URL=https://crm.yourdomain.com
-
-REDIS_URL=redis://redis:6379
-
-STORAGE_TYPE=local
-
-APP_SECRET=your_random_secret
-```
-
-Generate a secure secret:
-```bash
-openssl rand -hex 32
-```
-
-### Add `restart: always` to `docker-compose.yml` (optional but recommended)
-
-```yaml
-restart: always
-```
-
-Apply it to each service under `services:`.
+### Access Portainer:
+Visit `https://your.server.ip:9443` to set up your admin account.
 
 ---
 
-## 🧱 7. Start Twenty CRM
+## 📋 Post-Setup Checklist
 
-```bash
-docker compose up -d
-```
-
----
-
-## 🔁 8. Add Domain to NGINX Proxy Manager
-
-1. Open `http://your.server.ip:81`
-2. Go to **Proxy Hosts** > **Add Proxy Host**
-3. Fill in:
-   - **Domain Names**: `crm.yourdomain.com`
-   - **Forward Hostname / IP**: `localhost`
-   - **Forward Port**: `3000`
-   - ✅ Websockets Support
-   - ✅ Block Common Exploits
-4. Go to the **SSL** tab:
-   - Enable SSL
-   - Request a new Let's Encrypt certificate
-   - Accept terms and enter a valid email
-5. Save
+- [ ] Docker is running and enabled at boot
+- [ ] NGINX Proxy Manager is accessible
+- [ ] Portainer is accessible (if installed)
+- [ ] All containers have `restart: always` set
+- [ ] Basic firewall rules are in place (if needed)
 
 ---
 
-## ✅ 9. Test It!
+## 🔒 Security Recommendations
 
-Visit:
-```
-https://crm.yourdomain.com
-```
-
-You should see the live Twenty CRM instance with a green padlock ✅
-
----
-
-## 📋 10. Post-Deployment Checklist
-
-- [ ] Ensure Docker is enabled at boot:
-  ```bash
-  sudo systemctl enable docker
-  ```
-- [ ] All containers have `restart: always`
-- [ ] DNS is resolving properly
-- [ ] SSL cert auto-renewal is working (NPM handles this)
-- [ ] Save `.env` and secrets in a secure place
+1. **Update the default NGINX Proxy Manager credentials**
+2. **Set a strong Portainer admin password**
+3. **Consider setting up UFW (Uncomplicated Firewall):**
+   ```bash
+   sudo ufw allow ssh
+   sudo ufw allow http
+   sudo ufw allow https
+   sudo ufw allow 9443  # For Portainer
+   sudo ufw enable
+   ```
 
 ---
 
-## 🧩 Optional Add-ons
-
-- Add `portainer.yourdomain.com` using NPM to manage Docker visually
-- Set up monitoring with Uptime Kuma or Watchtower for updates
-- Configure backups for Postgres + Docker volumes
-
----
-
-**Author:** Your DevOps Team @ Dunosis  
-**Last updated:** {{ date }}
+**Author:** Wesley Ordonez  
+**Last updated:** April 14, 2025

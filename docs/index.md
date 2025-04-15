@@ -19,7 +19,8 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
   - [Digital Ocean Deployment](code/devops/deployment.md)
   - [Monitoring](code/devops/monitoring.md)
   - [New Project](code/devops/new-project-repo.md)
-  - [Hetzner Server](devops/monitoring.md)
+  - [Hetzner Server](code/devops/hetzner.md)
+  - [Twenty CRM](code/devops/twenty-crm.md)
 - **Backend**:
   - [SEO Best Practices](code/backend/seo.md)
 - **Frontend**:

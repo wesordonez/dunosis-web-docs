@@ -19,7 +19,8 @@ Learn how we deploy, monitor, and scale projects with step-by-step guides:
 
 - **[New Project Repo](devops/new-project-repo.md)**: How to create a new django web dev project repo.
 - **[Digital Ocean Deployment](devops/deployment.md)**: How to deploy Dunosis projects to production environments.
-- **[Hetzner Server CRM Deployment](devops/hetzner.md)**: How to deploy an instance of Twenty CRM on a Hetzner Server.
+- **[Hetzner Server](devops/hetzner.md)**: How to create a new Hetzner VPS with NGINX, DOCKER, and Portainer.
+- **[Twenty CRM](devops/twenty-crm.md)**: How to install an instance of Twenty CRM on a Hetzner VPS.
 - **[Monitoring](devops/monitoring.md)**: Keeping track of performance and identifying issues.
 
 ---
