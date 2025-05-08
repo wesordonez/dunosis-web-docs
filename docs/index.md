@@ -15,17 +15,24 @@ Welcome to the **Dunosis Documentation Site**! This site is your ultimate guide 
 - [Overview](code/code-overview.md)
 - [Style Guide](code/style-guide.md)
 - [Lessons Learned](code/lessons-learned.md)
-- **DevOps**:
-  - [Digital Ocean Deployment](code/devops/deployment.md)
-  - [Monitoring](code/devops/monitoring.md)
-  - [New Project](code/devops/new-project-repo.md)
-  - [Hetzner Server](code/devops/hetzner.md)
-  - [Twenty CRM](code/devops/twenty-crm.md)
-- **Backend**:
-  - [SEO Best Practices](code/backend/seo.md)
-- **Frontend**:
-  - [UI/UX Principles](code/frontend/ui-ux.md)
-  - [Custom Fonts](code/frontend/custom-fonts.md)
+
+**DevOps**:
+
+- [Digital Ocean Deployment](code/devops/deployment.md)
+- [Monitoring](code/devops/monitoring.md)
+- [New Project](code/devops/new-project-repo.md)
+- [Hetzner Server](code/devops/hetzner.md)
+- [Twenty CRM](code/devops/twenty-crm.md)
+- [Upgrading Twenty CRM](code/devops/twenty-upgrade.md)
+
+**Backend**:
+
+- [SEO Best Practices](code/backend/seo.md)
+
+**Frontend**:
+
+- [UI/UX Principles](code/frontend/ui-ux.md)
+- [Custom Fonts](code/frontend/custom-fonts.md)
 
 ### 3. Client Instructions
 - [Overview](client-instructions/client-instructions-overview.md)

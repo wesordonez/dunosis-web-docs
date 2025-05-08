@@ -1,10 +1,10 @@
 # Code Overview
 
-Welcome to the **Code** section of the Dunosis Documentation! This section is your resource for understanding the structure, standards, and best practices used in Dunosis projects. Whether you’re exploring snippets, diving into DevOps, or looking for lessons learned, this section is designed to guide you.
+Welcome to the **Code** section of the Dunosis Documentation! This section is your resource for understanding the structure, standards, and best practices used in Dunosis projects. Whether you're exploring snippets, diving into DevOps, or looking for lessons learned, this section is designed to guide you.
 
 ---
 
-## 🧭 What You’ll Find Here
+## 🧭 What You'll Find Here
 
 ### 1. Overview
 Overview of the Dunosis Code Documentation, including:
@@ -21,6 +21,7 @@ Learn how we deploy, monitor, and scale projects with step-by-step guides:
 - **[Digital Ocean Deployment](devops/deployment.md)**: How to deploy Dunosis projects to production environments.
 - **[Hetzner Server](devops/hetzner.md)**: How to create a new Hetzner VPS with NGINX, DOCKER, and Portainer.
 - **[Twenty CRM](devops/twenty-crm.md)**: How to install an instance of Twenty CRM on a Hetzner VPS.
+- **[Upgrading Twenty CRM](devops/twenty-upgrade.md)**: How to upgrade a self-hosted Twenty CRM instance.
 - **[Monitoring](devops/monitoring.md)**: Keeping track of performance and identifying issues.
 
 ---
@@ -65,7 +66,7 @@ This section will be regularly updated to include:
 - **Framework Updates**: Documentation for new tools and technologies adopted by Dunosis.
 - **Project Case Studies**: Real-world examples showcasing code implementation.
 
-If you’d like to suggest additional topics, feel free to reach out!
+If you'd like to suggest additional topics, feel free to reach out!
 
 ---
 
@@ -76,6 +77,6 @@ Have questions or need guidance? Contact us:
 - 📧 **Email**: [info@dunosis.com](mailto:info@dunosis.com)
 - 📞 **Phone**: +1 (773) 202-2074
 
-We’re here to support your coding journey!
+We're here to support your coding journey!
 
 ---
